@@ -12,7 +12,7 @@ title: Privacy Policies
   <p class="links">
     <a href="{{ app.url | relative_url }}">Privacy Policy</a>
     {%- for p in app.pages %}
-    <a href="{{ app.url | append: p | append: '/' | relative_url }}">{{ p | capitalize }}</a>
+    <a href="{{ app.url | append: p | append: '/' | relative_url }}">{{ p | replace: '-', ' ' | capitalize }}</a>
     {%- endfor %}
     {%- if app.play %}
     <a href="{{ app.play }}">Google Play</a>

@@ -6,13 +6,14 @@ The GitHub Pages site for all apps, built by GitHub Pages' own Jekyll (no build 
 - `https://ishubhamx.github.io/app-ads.txt`: AdMob's authorised sellers file. Each app's Play listing must have `https://ishubhamx.github.io` as its developer website.
 - `https://ishubhamx.github.io/privacy/`: a list of all apps with links to their legal pages.
 - `https://ishubhamx.github.io/privacy/<app>/`: the app's privacy policy (use this URL in Play Console and in the app).
-- `https://ishubhamx.github.io/privacy/<app>/terms/`, `.../licenses/`: extra pages, where an app has them.
+- `https://ishubhamx.github.io/privacy/<app>/terms/`, `.../licenses/`, `.../data-deletion/`: extra pages, where an app has them.
 
 | App | Privacy policy |
 |---|---|
 | Arrow Maze | https://ishubhamx.github.io/privacy/arrow-maze/ |
 | Hindu Panchangam | https://ishubhamx.github.io/privacy/hindu-panchangam/ |
 | ReplyBro | https://ishubhamx.github.io/privacy/replybro/ |
+| AI Scanner | https://ishubhamx.github.io/privacy/ai-scanner/ |
 
 ## Add an app
 Each file in `_apps/` is one app; its file name becomes the URL.
