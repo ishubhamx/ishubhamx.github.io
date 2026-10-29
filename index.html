@@ -51,7 +51,7 @@
   nav ul a:hover { color: var(--text); background: var(--panel); }
 
   /* Hero */
-  .hero { display: grid; grid-template-columns: 1.15fr 0.85fr; gap: 56px; align-items: center; padding: 72px 0 96px; }
+  .hero { display: grid; grid-template-columns: 1.15fr 0.85fr; gap: 56px; align-items: center; padding: 72px 0 20px; }
   .eyebrow { display: inline-flex; align-items: center; gap: 10px; padding: 6px 14px 6px 8px; border: 1px solid var(--line); border-radius: 999px; background: var(--panel); color: var(--muted); font-size: 14px; font-weight: 500; }
   .eyebrow .dot { width: 8px; height: 8px; border-radius: 50%; background: #34d399; box-shadow: 0 0 0 4px rgba(52, 211, 153, .18); margin-left: 6px; animation: pulse 2.4s infinite; }
   @keyframes pulse { 50% { box-shadow: 0 0 0 8px rgba(52, 211, 153, 0); } }
@@ -94,13 +94,6 @@
   .win p { margin: 0 0 12px; color: #475569; font-size: 15px; }
   .win .btn { color: #fff; justify-self: center; }
   .confetti { position: absolute; width: 14px; height: 14px; pointer-events: none; }
-
-  /* Stats strip */
-  .stats { display: grid; grid-template-columns: repeat(4, 1fr); border: 1px solid var(--line); border-radius: 22px; background: linear-gradient(var(--panel), var(--panel)), rgba(8, 12, 24, .88); overflow: hidden; }
-  .stat { padding: 26px 24px; border-left: 1px solid var(--line); }
-  .stat:first-child { border-left: 0; }
-  .stat b { display: block; font: 800 36px/1.1 var(--display); letter-spacing: -.03em; }
-  .stat span { color: var(--muted); font-size: 14.5px; }
 
   /* Sections */
   section.block { padding: 110px 0 0; }
@@ -167,12 +160,9 @@
   .reveal.in { opacity: 1; transform: none; }
 
   @media (max-width: 900px) {
-    .hero { grid-template-columns: 1fr; gap: 48px; padding: 48px 0 72px; }
+    .hero { grid-template-columns: 1fr; gap: 48px; padding: 48px 0 8px; }
     .game { max-width: 420px; width: 100%; justify-self: center; }
     .apps, .principles { grid-template-columns: 1fr; }
-    .stats { grid-template-columns: repeat(2, 1fr); }
-    .stat:nth-child(3) { border-left: 0; }
-    .stat:nth-child(n+3) { border-top: 1px solid var(--line); }
   }
   @media (max-width: 640px) {
     nav ul li:not(:last-child) { display: none; }
@@ -240,13 +230,6 @@
       </div>
     </div>
   </header>
-
-  <div class="stats reveal">
-    <div class="stat"><b data-count="4">4</b><span>apps & games</span></div>
-    <div class="stat"><b data-count="2">2</b><span>Play developer accounts</span></div>
-    <div class="stat"><b data-count="2019">2019</b><span>shipping code since</span></div>
-    <div class="stat"><b>100%</b><span>public privacy policies</span></div>
-  </div>
 
   <section class="block" id="apps">
     <div class="kicker reveal">The apps</div>
@@ -376,21 +359,6 @@
     if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); }
   }), { threshold: 0.12 });
   document.querySelectorAll(".reveal").forEach(el => io.observe(el));
-
-  /* ---------- Count-up stats ---------- */
-  const countIO = new IntersectionObserver(entries => entries.forEach(e => {
-    if (!e.isIntersecting) return;
-    countIO.unobserve(e.target);
-    const el = e.target, end = +el.dataset.count, start = end > 1000 ? end - 40 : 0, t0 = performance.now();
-    if (reduced) return;
-    const tick = t => {
-      const k = Math.min(1, (t - t0) / 1200), ease = 1 - Math.pow(1 - k, 3);
-      el.textContent = Math.round(start + (end - start) * ease);
-      if (k < 1) requestAnimationFrame(tick);
-    };
-    requestAnimationFrame(tick);
-  }), { threshold: 0.6 });
-  document.querySelectorAll("[data-count]").forEach(el => countIO.observe(el));
 
   /* ---------- Card spotlight ---------- */
   document.querySelectorAll(".card").forEach(card => card.addEventListener("pointermove", e => {
