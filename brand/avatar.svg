@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ishubhamx">
+  <title>ishubhamx</title>
+  <defs><linearGradient id="mnight" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111a33"/><stop offset="1" stop-color="#1e1546"/></linearGradient>
+    <linearGradient id="marrow" gradientUnits="userSpaceOnUse" x1="168" y1="344" x2="352" y2="160"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="mglow" cx="0.78" cy="0.2" r="0.7"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.35"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <mask id="mgap" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512"><rect width="512" height="512" fill="#fff"/><path d="M168 344L340 172" stroke="#000" stroke-width="78" stroke-linecap="round"/></mask></defs>
+  <rect width="512" height="512" rx="0" fill="url(#mnight)"/>
+  <rect width="512" height="512" rx="0" fill="url(#mglow)"/>
+  <g transform="translate(5 -5)" fill="none" stroke-width="50" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M158 158L354 354" stroke="#f1f4fb" mask="url(#mgap)"/>
+    <path d="M168 344L352 160M262 160H352V250" stroke="url(#marrow)"/>
+    <circle cx="158" cy="354" r="31" fill="#f0c96b" stroke="none"/>
+  </g>
+</svg>
