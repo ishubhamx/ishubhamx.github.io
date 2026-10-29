@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{%- capture heading %}{{ page.title }}{% if page.collection == "apps" %} – Privacy Policy{% endif %}{% endcapture %}
+<title>{{ heading }}</title>
+<style>
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #0f172a; background: #f8fafc; margin: 0; line-height: 1.6; }
+  main { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  h1 { font-size: 28px; line-height: 1.25; margin-bottom: 4px; }
+  h2 { font-size: 20px; margin-top: 32px; }
+  .muted { color: #64748b; }
+  a { color: #2563eb; }
+  li { margin-bottom: 6px; }
+</style>
+</head>
+<body>
+<main>
+<h1>{{ heading }}</h1>
+{{ content }}
+</main>
+</body>
+</html>

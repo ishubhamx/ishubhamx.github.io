@@ -1,0 +1,26 @@
+# Third-party services an app can list under `services:`. Write each one once; every policy that
+# uses it shows the same text. Add a new entry here before listing a new service in an app.
+
+admob:
+  heading: Advertising (Google AdMob)
+  body: |
+    <p>Ads are served by Google AdMob. To serve and measure ads and to prevent fraud, Google may collect and process:</p>
+    <ul>
+      <li>device identifiers, such as the Android advertising ID;</li>
+      <li>your IP address and the approximate location derived from it;</li>
+      <li>device and app information (model, operating system, language, app version);</li>
+      <li>ad interactions (ads viewed and tapped).</li>
+    </ul>
+    <p>Depending on your consent and region, ads may be personalised. In the European Economic Area, the United Kingdom and Switzerland, the app asks for your consent through Google's consent form before personalised ads are shown, and you can change your choice at any time from <strong>Ad Privacy Options</strong> in the app's settings. You can also reset or delete your advertising ID, or opt out of ad personalisation, in your device's settings.</p>
+    <p>Learn more in <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use its services</a> and the <a href="https://policies.google.com/privacy">Google Privacy Policy</a>.</p>
+
+gameanalytics:
+  heading: Analytics (GameAnalytics)
+  body: |
+    <p>GameAnalytics helps us understand how the app is used so we can improve it. GameAnalytics may collect:</p>
+    <ul>
+      <li>a random identifier for your installation and, where available, device identifiers such as the advertising ID;</li>
+      <li>device information (model, operating system, language, country derived from your IP address);</li>
+      <li>usage events, such as sessions and the in-app events listed for each app.</li>
+    </ul>
+    <p>This information is not used to identify you personally. See the <a href="https://gameanalytics.com/privacy">GameAnalytics Privacy Policy</a>.</p>

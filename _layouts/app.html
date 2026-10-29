@@ -1,0 +1,6 @@
+---
+layout: default
+---
+{%- comment -%} One app's own policy page. Its title comes from the app's name. {%- endcomment -%}
+{%- assign apps = site.apps | where: "url", page.url -%}
+{% include policy.html apps=apps %}

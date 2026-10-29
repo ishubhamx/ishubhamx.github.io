@@ -1,0 +1,18 @@
+# Shared settings for every policy page.
+developer: SSV Makers
+contact_email: CONTACT_EMAIL
+updated: October 29, 2026        # effective date shown on every page; change it when the text changes
+
+# Project site at https://ishubhamx.github.io/privacy/. Set to "" if you move to a custom domain.
+baseurl: /privacy
+
+# Each file in _apps/ becomes /<file-name>/ (e.g. _apps/arrow-maze.md -> /arrow-maze/).
+collections:
+  apps:
+    output: true
+    permalink: /:name/
+defaults:
+  - scope: { type: apps }
+    values: { layout: app }
+
+exclude: [README.md]
