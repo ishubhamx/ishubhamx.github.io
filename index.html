@@ -1,24 +1,76 @@
----
-layout: default
-title: Privacy Policies
----
-{%- comment -%} Directory of every app in _apps/ with links to its legal pages. {%- endcomment -%}
-<p>Privacy policies and terms for apps published on Google Play as ishubhamx and SSV Makers.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Apps by ishubhamx</title>
+<meta name="description" content="Android apps by ishubhamx and SSV Makers: Arrow Maze, Hindu Panchangam and ReplyBro.">
+<link rel="icon" href="icons/arrow-maze.png">
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #0f172a; background: #f8fafc; margin: 0; line-height: 1.5; }
+  header { background: linear-gradient(135deg, #3b82f6, #1e3a8a); color: #fff; padding: 56px 20px 72px; text-align: center; }
+  header h1 { font-size: 34px; margin: 0 0 8px; }
+  header p { margin: 0; color: #dbeafe; font-size: 17px; }
+  main { max-width: 760px; margin: -40px auto 0; padding: 0 16px 48px; }
+  .app { display: flex; gap: 18px; align-items: flex-start; background: #fff; border: 1px solid #e2e8f0; border-radius: 18px; padding: 20px; margin-bottom: 16px; box-shadow: 0 6px 20px rgba(15, 23, 42, 0.06); }
+  .app img { width: 72px; height: 72px; border-radius: 18px; flex: none; border: 1px solid #e2e8f0; }
+  .app h2 { font-size: 20px; margin: 0 0 2px; }
+  .app p { margin: 0 0 12px; color: #475569; }
+  .links a { display: inline-block; margin: 0 14px 4px 0; color: #2563eb; font-weight: 600; text-decoration: none; }
+  .links a:hover { text-decoration: underline; }
+  .play { background: #2563eb; color: #fff !important; padding: 6px 14px; border-radius: 999px; }
+  .soon { display: inline-block; background: #fef3c7; color: #92400e; font-size: 13px; font-weight: 700; padding: 6px 12px; border-radius: 999px; margin-right: 14px; }
+  footer { text-align: center; color: #64748b; font-size: 14px; padding: 8px 16px 40px; }
+  footer a { color: #2563eb; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Apps by ishubhamx</h1>
+  <p>Android apps published on Google Play as ishubhamx and SSV Makers</p>
+</header>
+<main>
+  <section class="app">
+    <img src="icons/arrow-maze.png" alt="Arrow Maze icon">
+    <div>
+      <h2>Arrow Maze</h2>
+      <p>Tap arrows to clear the path and reveal the shape. Endless puzzles with a new twist every chapter.</p>
+      <div class="links">
+        <span class="soon">Coming soon</span>
+        <a href="/privacy/arrow-maze/">Privacy Policy</a>
+      </div>
+    </div>
+  </section>
 
-{% for app in site.apps %}
-<section class="app">
-  <h2>{{ app.title }}</h2>
-  <p class="muted"><code>{{ app.package }}</code></p>
-  <p class="links">
-    <a href="{{ app.url | relative_url }}">Privacy Policy</a>
-    {%- for p in app.pages %}
-    <a href="{{ app.url | append: p | append: '/' | relative_url }}">{{ p | capitalize }}</a>
-    {%- endfor %}
-    {%- if app.play %}
-    <a href="{{ app.play }}">Google Play</a>
-    {%- endif %}
-  </p>
-</section>
-{% endfor %}
+  <section class="app">
+    <img src="icons/hindu-panchangam.png" alt="Hindu Panchangam icon">
+    <div>
+      <h2>Hindu Calendar – Panchang</h2>
+      <p>Tithi, Nakshatra, Kundli, Muhurat and Rashifal: the Hindu Panchang for your location.</p>
+      <div class="links">
+        <a class="play" href="https://play.google.com/store/apps/details?id=com.ishubhamx.hinducalendar">Google Play</a>
+        <a href="/privacy/hindu-panchangam/">Privacy Policy</a>
+        <a href="/privacy/hindu-panchangam/terms/">Terms</a>
+      </div>
+    </div>
+  </section>
 
-<p class="muted">Contact: <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></p>
+  <section class="app">
+    <img src="icons/replybro.png" alt="ReplyBro icon">
+    <div>
+      <h2>ReplyBro</h2>
+      <p>Replies to your chats for you, on-device, with rules you set in seconds. Works with WhatsApp, Telegram, Instagram and Messenger.</p>
+      <div class="links">
+        <a class="play" href="https://play.google.com/store/apps/details?id=com.ssvmakers.replybro">Google Play</a>
+        <a href="/privacy/replybro/">Privacy Policy</a>
+        <a href="/privacy/replybro/terms/">Terms</a>
+      </div>
+    </div>
+  </section>
+</main>
+<footer>
+  Contact: <a href="mailto:ishubhamx0@gmail.com">ishubhamx0@gmail.com</a> · <a href="/privacy/">All privacy policies</a>
+</footer>
+</body>
+</html>

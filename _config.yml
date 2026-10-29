@@ -3,14 +3,15 @@ developer: SSV Makers
 contact_email: ishubhamx0@gmail.com
 updated: October 29, 2026        # effective date shown on every page; change it when the text changes
 
-# Project site at https://ishubhamx.github.io/privacy/. Set to "" if you move to a custom domain.
-baseurl: /privacy
+# User site at https://ishubhamx.github.io/: the homepage (index.html) and app-ads.txt live at the root,
+# the policies under /privacy/.
+baseurl: ""
 
-# Each file in _apps/ is one app and becomes its privacy page at /<file-name>/ (e.g. _apps/arrow-maze.md
-# -> /arrow-maze/). Use `layout: app` for a generated policy, or write the page by hand in an .html file.
+# Each file in _apps/ is one app and becomes its privacy page at /privacy/<file-name>/ (e.g.
+# _apps/arrow-maze.md -> /privacy/arrow-maze/). Use `layout: app` for a generated policy, or write the page by hand in an .html file.
 collections:
   apps:
     output: true
-    permalink: /:name/
+    permalink: /privacy/:name/
 
 exclude: [README.md]

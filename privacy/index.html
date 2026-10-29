@@ -1,0 +1,24 @@
+---
+layout: default
+title: Privacy Policies
+---
+{%- comment -%} Directory of every app in _apps/ with links to its legal pages. {%- endcomment -%}
+<p>Privacy policies and terms for apps published on Google Play as ishubhamx and SSV Makers.</p>
+
+{% for app in site.apps %}
+<section class="app">
+  <h2>{{ app.title }}</h2>
+  <p class="muted"><code>{{ app.package }}</code></p>
+  <p class="links">
+    <a href="{{ app.url | relative_url }}">Privacy Policy</a>
+    {%- for p in app.pages %}
+    <a href="{{ app.url | append: p | append: '/' | relative_url }}">{{ p | capitalize }}</a>
+    {%- endfor %}
+    {%- if app.play %}
+    <a href="{{ app.play }}">Google Play</a>
+    {%- endif %}
+  </p>
+</section>
+{% endfor %}
+
+<p class="muted">Contact: <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></p>

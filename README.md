@@ -1,8 +1,10 @@
-# Privacy policies
+# ishubhamx.github.io
 
-One GitHub Pages site for the legal pages of every app, built by GitHub Pages' own Jekyll (no build step):
+The GitHub Pages site for all apps, built by GitHub Pages' own Jekyll (no build step):
 
-- `https://ishubhamx.github.io/privacy/`: a list of all apps with links to their pages.
+- `https://ishubhamx.github.io/`: apps homepage (`index.html`, icons in `icons/`).
+- `https://ishubhamx.github.io/app-ads.txt`: AdMob's authorised sellers file. Each app's Play listing must have `https://ishubhamx.github.io` as its developer website.
+- `https://ishubhamx.github.io/privacy/`: a list of all apps with links to their legal pages.
 - `https://ishubhamx.github.io/privacy/<app>/`: the app's privacy policy (use this URL in Play Console and in the app).
 - `https://ishubhamx.github.io/privacy/<app>/terms/`, `.../licenses/`: extra pages, where an app has them.
 
@@ -32,7 +34,7 @@ events: notes created and deleted   # optional: analytics events (with gameanaly
 
 **Hand-written policy**: create `_apps/<app-slug>.html` with front matter (`title`, `package`, optional `play`, `excerpt_separator: ""`) followed by the full HTML page wrapped in `{% raw %}...{% endraw %}`, like `_apps/replybro.html`.
 
-**Extra pages** (terms, licenses): put each in `<app-slug>/<page>/index.html` and list them in the app's front matter, e.g. `pages: [terms]`. The home page links them.
+**Extra pages** (terms, licenses): put each in `privacy/<app-slug>/<page>/index.html` and list them in the app's front matter, e.g. `pages: [terms]`. The privacy index links them. Add new apps to the homepage `index.html` too.
 
 ## Edit shared text
 - Developer name, contact email and the generated policies' effective date: `_config.yml`.
