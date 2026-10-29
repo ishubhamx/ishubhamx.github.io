@@ -1,4 +1,5 @@
 ---
+layout: app
 title: Arrow Maze
 package: com.ssvmakers.arrowmaze
 services: [admob, gameanalytics]

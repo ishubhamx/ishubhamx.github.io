@@ -1,0 +1,317 @@
+---
+title: ReplyBro
+package: com.ssvmakers.replybro
+play: https://play.google.com/store/apps/details?id=com.ssvmakers.replybro
+pages: [terms]               # extra pages in replybro/
+excerpt_separator: ""
+---
+{% raw %}<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy – ReplyBro</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.7;
+      color: #1a1a2e;
+      background: #f9f9fb;
+    }
+    header {
+      background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+      color: #fff;
+      padding: 48px 24px 40px;
+      text-align: center;
+    }
+    header h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.5px; }
+    header p  { margin-top: 8px; opacity: 0.85; font-size: 0.95rem; }
+    main {
+      max-width: 760px;
+      margin: 40px auto;
+      padding: 0 24px 80px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+      padding: 32px 36px;
+      margin-bottom: 24px;
+    }
+    h2 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #4f46e5;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #ede9fe;
+    }
+    p { margin-bottom: 12px; color: #374151; }
+    ul { margin: 8px 0 12px 20px; color: #374151; }
+    ul li { margin-bottom: 6px; }
+    a { color: #4f46e5; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .badge {
+      display: inline-block;
+      background: #ede9fe;
+      color: #6d28d9;
+      border-radius: 6px;
+      padding: 2px 10px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      margin-right: 6px;
+    }
+    .highlight {
+      background: #f0fdf4;
+      border-left: 4px solid #22c55e;
+      padding: 12px 16px;
+      border-radius: 0 8px 8px 0;
+      margin: 12px 0;
+    }
+    footer {
+      text-align: center;
+      color: #9ca3af;
+      font-size: 0.85rem;
+      padding-bottom: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Privacy Policy</h1>
+  <p>ReplyBro &nbsp;·&nbsp; Last updated: May 23, 2026</p>
+</header>
+
+<main>
+
+  <div class="card">
+    <h2>Overview</h2>
+    <p>
+      ReplyBro ("we", "our", "the app") is an automated notification-reply assistant
+      for Android. We are committed to your privacy. This policy explains what data
+      the app accesses, what stays on your device, and what (if anything) leaves it.
+    </p>
+    <div class="highlight">
+      <strong>Short version:</strong> Your messages and reply rules never leave your
+      device. ReplyBro has no server, no user accounts, and no cloud storage for your
+      personal data.
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>1. Data We Access — and Where It Stays</h2>
+    <p>
+      ReplyBro uses Android's
+      <strong>Notification Listener Service</strong> to read incoming notifications
+      from supported messaging apps — currently <strong>WhatsApp, WhatsApp Business,
+      Telegram, Instagram, and Facebook Messenger</strong> — so it can send automated
+      replies on your behalf.
+    </p>
+    <ul>
+      <li>
+        <span class="badge">On device only</span>
+        <strong>Notification content</strong> (sender name, message text from
+        supported apps: WhatsApp, WhatsApp Business, Telegram, Instagram, and
+        Facebook Messenger) — read in memory to match your rules and compose a reply.
+        Never stored beyond the moment the reply is sent, except in the in-app reply
+        log visible to you.
+      </li>
+      <li>
+        <span class="badge">On device only</span>
+        <strong>Reply rules &amp; settings</strong> — stored in the local app
+        database (Room/SQLite) and SharedPreferences. Never synced or uploaded.
+      </li>
+      <li>
+        <span class="badge">On device only</span>
+        <strong>Reply log</strong> — a history of sent replies stored locally so
+        you can review them. Cleared when you uninstall the app.
+      </li>
+      <li>
+        <span class="badge">On device only</span>
+        <strong>Wallet / diamonds balance</strong> — stored locally in DataStore.
+        Not linked to any account or server.
+      </li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>2. Third-Party SDKs That Collect Data</h2>
+
+    <p>The following third-party services are integrated in the app. Each operates
+    under its own privacy policy.</p>
+
+    <p><strong>Firebase Analytics (Google)</strong><br/>
+    We use anonymous, aggregated usage events (e.g. "rule created", "paywall opened")
+    to understand how the app is used. No message content or personal data is included
+    in any analytics event. Analytics is tied to a random app-instance ID, not to your
+    name or Google account.
+    <br/><a href="https://firebase.google.com/support/privacy" target="_blank">Firebase Privacy Policy →</a></p>
+
+    <p><strong>Firebase Crashlytics (Google)</strong><br/>
+    Automatically collects crash reports to help us fix bugs. Reports include device
+    model, OS version, stack trace, and app state at the time of the crash. They do
+    not include notification content or reply text.
+    <br/><a href="https://firebase.google.com/support/privacy" target="_blank">Crashlytics Privacy Policy →</a></p>
+
+    <p><strong>Google AdMob &amp; User Messaging Platform (Google)</strong><br/>
+    Free-tier users may see ads served by AdMob. Google may use device identifiers
+    (Advertising ID) to serve relevant ads, subject to your device's ad personalisation
+    settings. The UMP SDK is used to collect consent in applicable regions (GDPR/CCPA).
+    <br/><a href="https://policies.google.com/technologies/ads" target="_blank">Google Ads Privacy Policy →</a></p>
+
+    <p><strong>Google Play Billing (Google)</strong><br/>
+    In-app purchases (weekly, monthly, and yearly plans) are processed entirely by
+    Google Play. We never see or store your payment information.
+    <br/><a href="https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice" target="_blank">Google Play Payments Privacy →</a></p>
+
+    <p><strong>Firebase Cloud Messaging (Google)</strong><br/>
+    We may send you push notifications via FCM — for example, to remind you to
+    claim your daily diamond reward or to announce new features. FCM assigns
+    your device a registration token. We do not store individual tokens on our
+    servers; notifications are delivered via topic-based broadcasts. You can
+    disable notifications at any time in your device's app notification settings.
+    <br/><a href="https://firebase.google.com/support/privacy" target="_blank">Firebase Privacy Policy →</a></p>
+  </div>
+
+  <div class="card">
+    <h2>3. Permissions Explained</h2>
+    <ul>
+      <li>
+        <strong>Notification access (NotificationListenerService)</strong> —
+        Required to read incoming notifications from WhatsApp, WhatsApp Business,
+        Telegram, Instagram, and Facebook Messenger, and to send replies via
+        RemoteInput. You grant this explicitly in Android Settings. You can
+        revoke it at any time; the app will stop working but your data is unaffected.
+      </li>
+      <li>
+        <strong>POST_NOTIFICATIONS</strong> —
+        Used to show you status notifications (e.g. "reply sent", "service running",
+        daily diamond reminders, and updates).
+      </li>
+      <li>
+        <strong>FOREGROUND_SERVICE / FOREGROUND_SERVICE_SPECIAL_USE</strong> —
+        Required on Android 14+ to keep the reply service alive in the background.
+        No extra data collection occurs.
+      </li>
+      <li>
+        <strong>REQUEST_IGNORE_BATTERY_OPTIMIZATIONS</strong> —
+        Lets you exempt ReplyBro from battery optimisation so the listener keeps
+        running. You choose whether to grant this; replies still work without it,
+        but may be delayed when the device is idle.
+      </li>
+      <li>
+        <strong>ACCESS_NOTIFICATION_POLICY</strong> —
+        Lets ReplyBro detect whether your phone is in Do-Not-Disturb mode so it can
+        skip replies when you've asked the device to stay silent.
+      </li>
+      <li>
+        <strong>INTERNET / ACCESS_NETWORK_STATE</strong> —
+        Used only by Firebase (analytics, crash reporting, cloud messaging) and
+        AdMob. Not used to upload your messages or rules.
+      </li>
+      <li>
+        <strong>BILLING</strong> —
+        Required for Google Play in-app subscription purchases.
+      </li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>4. Data Retention &amp; Deletion</h2>
+    <p>
+      All personal data (reply log, rules, settings, wallet balance) is stored
+      solely on your device. To delete it completely, uninstall the app.
+      You can also clear the reply log from within the app at any time.
+    </p>
+    <p>
+      Anonymous analytics and crash data retained by Google/Firebase is subject
+      to their respective retention policies (typically 14 months for Analytics).
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>5. Sensitive Information We Do Not Collect</h2>
+    <p>
+      ReplyBro does not request, collect, or transmit sensitive personal
+      information such as your real name, phone number, email address,
+      precise location, contacts list, photos, financial details, health
+      data, religious or political opinions, or biometric identifiers.
+      Notification content is processed in memory on your device only and
+      is never uploaded.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>6. Disclosure of Personal Information</h2>
+    <p>
+      We do not sell, trade, rent, or otherwise transfer your personal
+      information to outside parties. The only data that leaves your
+      device is the anonymous, aggregated telemetry described in
+      Section 2, sent directly to the respective third-party services
+      (Google/Firebase, AdMob) under their own privacy policies.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>7. Interest-Based Advertising</h2>
+    <p>
+      Free-tier users may see ads served by Google AdMob. Google may use
+      your device's Advertising ID to personalise these ads. You can
+      reset your Advertising ID or opt out of interest-based ads at any
+      time:
+    </p>
+    <ul>
+      <li><strong>Android:</strong> Settings → Google → Ads → "Delete advertising ID" / "Opt out of Ads Personalisation".</li>
+      <li><strong>Google account-wide:</strong>
+        <a href="https://adssettings.google.com" target="_blank">adssettings.google.com</a>
+      </li>
+      <li><strong>Industry-wide opt-out:</strong>
+        <a href="https://www.aboutads.info/choices/" target="_blank">aboutads.info/choices</a> and
+        <a href="https://youradchoices.com" target="_blank">youradchoices.com</a>
+      </li>
+    </ul>
+    <p>
+      In regions covered by GDPR or CCPA, the Google User Messaging
+      Platform (UMP) consent form is shown on first launch so you can
+      choose between personalised and non-personalised ads.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>8. Children's Privacy</h2>
+    <p>
+      ReplyBro is not directed at children under 13. We do not knowingly collect
+      personal information from children. If you believe a child has provided
+      personal information through the app, please contact us so we can address it.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>9. Changes to This Policy</h2>
+    <p>
+      We may update this policy as the app evolves. The "last updated" date at
+      the top of this page reflects the most recent revision. Continued use of
+      the app after changes constitutes acceptance of the updated policy.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>10. Contact Us</h2>
+    <p>
+      Questions about this policy?<br/>
+      Email: <a href="mailto:ishubhamx0@gmail.com">ishubhamx0@gmail.com</a>
+    </p>
+  </div>
+
+</main>
+
+<footer>
+  &copy; 2026 SSV Makers. All rights reserved.
+</footer>
+
+</body>
+</html>
+{% endraw %}
