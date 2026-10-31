@@ -1,7 +1,7 @@
 # Shared settings for every policy page.
 developer: SSV Makers
 contact_email: ishubhamx0@gmail.com
-updated: October 29, 2026        # effective date shown on every page; change it when the text changes
+updated: October 31, 2026        # effective date shown on every page; change it when the text changes
 
 # User site at https://ishubhamx.github.io/: the homepage (index.html) and app-ads.txt live at the root,
 # the policies under /privacy/.

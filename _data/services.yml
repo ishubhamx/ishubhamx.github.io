@@ -24,3 +24,9 @@ gameanalytics:
       <li>usage events, such as sessions and the in-app events listed for each app.</li>
     </ul>
     <p>This information is not used to identify you personally. See the <a href="https://gameanalytics.com/privacy">GameAnalytics Privacy Policy</a>.</p>
+
+playgames:
+  heading: Cloud save (Google Play Games)
+  body: |
+    <p>Signing in to Google Play Games is optional. If you sign in, the app stores a copy of the progress and settings described above as a saved game in your Google account, so you can restore it on another device. When you sign in, Google shares your Play Games identity (gamer name and avatar) with the app. Google Play Games may also collect diagnostic and usage data to run and improve the service.</p>
+    <p>The saved game is kept by Google, not by us. You can delete it, or your Play Games profile and all its game data, from your <a href="https://play.google.com/games/profile">Play Games profile</a> or your <a href="https://myaccount.google.com/">Google Account</a>. See the <a href="https://policies.google.com/privacy">Google Privacy Policy</a>.</p>
