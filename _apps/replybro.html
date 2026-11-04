@@ -27,7 +27,7 @@ excerpt_separator: ""
       text-align: center;
     }
     header h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.5px; }
-    header p  { margin-top: 8px; opacity: 0.85; font-size: 0.95rem; }
+    header p  { margin-top: 8px; opacity: 0.85; font-size: 0.95rem; color: #fff; }
     main {
       max-width: 760px;
       margin: 40px auto;
@@ -82,7 +82,7 @@ excerpt_separator: ""
 
 <header>
   <h1>Privacy Policy</h1>
-  <p>ReplyBro &nbsp;·&nbsp; Last updated: May 23, 2026</p>
+  <p>ReplyBro 3.0 &nbsp;·&nbsp; Last updated: November 4, 2026</p>
 </header>
 
 <main>
@@ -90,219 +90,203 @@ excerpt_separator: ""
   <div class="card">
     <h2>Overview</h2>
     <p>
-      ReplyBro ("we", "our", "the app") is an automated notification-reply assistant
-      for Android. We are committed to your privacy. This policy explains what data
-      the app accesses, what stays on your device, and what (if anything) leaves it.
+      ReplyBro ("we", "our", "the app") answers chat messages for you on Android. It reads the
+      notifications of the messaging apps you choose and replies through each app's own
+      <em>Reply</em> button, using your rules, your status, and optionally AI. This policy explains
+      what the app reads, what stays on your phone, and what leaves it.
     </p>
     <div class="highlight">
-      <strong>Short version:</strong> Your messages and reply rules never leave your
-      device. ReplyBro has no server, no user accounts, and no cloud storage for your
-      personal data.
+      <strong>Short version:</strong> ReplyBro has no server and no accounts. Your chats, rules and
+      history stay on your phone. Messages leave it only if you turn on AI replies and agree: then the
+      chat being answered goes directly from your phone to the AI provider you set up, with your own key.
+      Free users see Google ads only when they choose to watch one.
     </div>
   </div>
 
   <div class="card">
-    <h2>1. Data We Access — and Where It Stays</h2>
+    <h2>1. What ReplyBro Reads</h2>
     <p>
-      ReplyBro uses Android's
-      <strong>Notification Listener Service</strong> to read incoming notifications
-      from supported messaging apps — currently <strong>WhatsApp, WhatsApp Business,
-      Telegram, Instagram, and Facebook Messenger</strong> — so it can send automated
-      replies on your behalf.
+      With the <strong>notification access</strong> you grant in Android Settings, ReplyBro reads new
+      notifications from the messaging apps you turn on in the app (WhatsApp and WhatsApp Business by
+      default; Telegram, Instagram, Messenger, Signal, Messages, Slack, Teams and Discord if you add them).
+      From each chat notification it uses:
+    </p>
+    <ul>
+      <li>the sender's name and the chat or group name, as the messaging app shows them;</li>
+      <li>the new message and the recent messages that the notification includes;</li>
+      <li>the notification's Reply button, to send your reply.</li>
+    </ul>
+    <p>
+      Other notifications are ignored. Notifications that look like one-time codes, payments, ID requests
+      or emergencies are never answered automatically (the "Safety guard", on by default), and notifications
+      whose content Android or the app hides are skipped.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>2. What Stays on Your Phone</h2>
+    <p>ReplyBro stores the following only on your device:</p>
+    <ul>
+      <li><span class="badge">Rules</span> your quick-reply rules and per-chat choices (for example "never reply to this chat").</li>
+      <li><span class="badge">Activity</span> a history of messages ReplyBro handled and the replies it sent or drafted. It is deleted automatically after 30 days, and you can clear it any time in Settings.</li>
+      <li><span class="badge">Settings</span> your status, schedule, signature, apps to handle and other preferences.</li>
+      <li><span class="badge">Today's plan</span> the times and statuses of your day, with your own notes. If you import your calendar, event titles are kept as private notes.</li>
+      <li><span class="badge">Brain</span> what you tell the AI about yourself: name, description, tone, facts it may share, and things it must never do.</li>
+      <li><span class="badge">API key</span> your AI provider key, encrypted with the Android Keystore.</li>
+      <li><span class="badge">Free plan</span> your diamond balance, daily streak, ads watched today, and today's count of AI replies.</li>
+    </ul>
+    <p>
+      If you have Android backup turned on, Android may include your settings, today's plan, Brain profile and
+      diamond balance in your Google account backup. Rules, activity history and your API key are never backed up.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>3. AI Replies (Optional, Off by Default)</h2>
+    <p>
+      AI replies stay off until you turn them on in the app and agree to a notice that explains what is sent.
+      When a message has no matching rule, ReplyBro then sends the AI provider:
+    </p>
+    <ul>
+      <li>up to the 12 most recent messages of that chat, with the senders' names, and the chat or group name;</li>
+      <li>your Brain profile (name, description, tone, facts you allow it to share, and your "never" list);</li>
+      <li>your current status (for example "in a meeting until 2 PM");</li>
+      <li>only for contacts you choose to share your day with: the rest of today's plan as times and free/busy. Your notes and calendar event titles are never sent.</li>
+    </ul>
+    <p>
+      Messages caught by the Safety guard are not sent. The sample you type in the Brain screen's
+      <em>Try it</em> box is sent the same way when you tap it.
+    </p>
+    <p>
+      <strong>Where it goes:</strong> directly from your phone to the provider you set up, using
+      <strong>your own API key</strong>: Google Gemini by default, or an OpenAI-compatible service you configure.
+      We never receive these messages. The provider handles them under its own terms:
     </p>
     <ul>
       <li>
-        <span class="badge">On device only</span>
-        <strong>Notification content</strong> (sender name, message text from
-        supported apps: WhatsApp, WhatsApp Business, Telegram, Instagram, and
-        Facebook Messenger) — read in memory to match your rules and compose a reply.
-        Never stored beyond the moment the reply is sent, except in the in-app reply
-        log visible to you.
+        <strong>Google Gemini:</strong> with a free (unpaid) Gemini API key, Google may use what is sent and the
+        replies to improve its products, and human reviewers may read them, disconnected from your account
+        (<a href="https://ai.google.dev/gemini-api/terms" target="_blank" rel="noopener">Gemini API terms</a>).
+        With a paid key, or if you are in the EEA, Switzerland or the UK, Google does not use them to improve its
+        products. Google requires API users to be 18 or older.
       </li>
-      <li>
-        <span class="badge">On device only</span>
-        <strong>Reply rules &amp; settings</strong> — stored in the local app
-        database (Room/SQLite) and SharedPreferences. Never synced or uploaded.
-      </li>
-      <li>
-        <span class="badge">On device only</span>
-        <strong>Reply log</strong> — a history of sent replies stored locally so
-        you can review them. Cleared when you uninstall the app.
-      </li>
-      <li>
-        <span class="badge">On device only</span>
-        <strong>Wallet / diamonds balance</strong> — stored locally in DataStore.
-        Not linked to any account or server.
-      </li>
+      <li><strong>Other providers:</strong> see the privacy terms of the service you configure.</li>
+    </ul>
+    <p>You can turn AI replies off at any time in the Brain screen; nothing more is sent after that.</p>
+  </div>
+
+  <div class="card">
+    <h2>4. Calendar and Voice Input (Optional)</h2>
+    <p>
+      <strong>Calendar:</strong> when you tap <em>From calendar</em> while planning your day, ReplyBro asks for
+      calendar access and reads the start, end, title and busy/free status of today's remaining events. It reads
+      them on your phone to build your plan; titles stay on your phone as private notes.
+    </p>
+    <p>
+      <strong>Voice:</strong> when you tap the microphone to speak your plan, your phone's speech recognition
+      service (for example Google's) turns your speech into text under that service's privacy policy.
+      ReplyBro only receives the text.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>5. Third-Party Services</h2>
+    <p>
+      <strong>Google AdMob and User Messaging Platform (free plan only).</strong> Free users can watch rewarded ads
+      to earn diamonds. While a free user has the app open, ReplyBro loads an ad in the background and shows it only
+      when they tap <em>Watch ad</em>. AdMob may collect device identifiers such as the Advertising ID, your IP
+      address, and ad interaction data, and may personalise ads where you allow it. Where the law requires
+      (for example in the EEA and UK), Google's consent form appears before any ad is requested, and
+      <em>Settings → Ad privacy choices</em> lets you change your choice. Pro subscribers see no ads and the ad
+      SDK is not started.
+      <br/><a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">How Google uses information from ads →</a>
+    </p>
+    <p>
+      <strong>Firebase Crashlytics (Google).</strong> If the app crashes, a crash report is sent so we can fix it: the
+      error and stack trace, device model, Android version, app version and a random installation ID. Reports never
+      include messages, contact names, replies or your API key.
+      <br/><a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Firebase privacy →</a>
+    </p>
+    <p>
+      <strong>Google Play Billing.</strong> Pro subscriptions are processed entirely by Google Play. We never see or
+      store your payment details; the app only learns whether you have an active subscription.
+      <br/><a href="https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&amp;ldt=privacynotice" target="_blank" rel="noopener">Google Payments privacy →</a>
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>6. Replies Sent in Your Name</h2>
+    <p>
+      ReplyBro sends replies from your own messaging accounts, so the people you chat with see them as coming from
+      you. Replies on the free plan end with "— Auto-reply by ReplyBro". You decide which apps, chats and messages
+      ReplyBro may answer, and you are responsible for the replies it sends for you.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>7. Permissions Explained</h2>
+    <ul>
+      <li><strong>Notification access</strong>: required to read chat notifications and reply to them. You can revoke it any time in Android Settings.</li>
+      <li><strong>Notifications</strong>: to show drafts to approve, messages that need you, and notices such as "out of diamonds".</li>
+      <li><strong>Ignore battery optimisation</strong> (optional): so Android doesn't stop ReplyBro in the background.</li>
+      <li><strong>Do Not Disturb access</strong>: to know when your phone is in Do Not Disturb, if you schedule replies for that time.</li>
+      <li><strong>Calendar</strong> (optional): only to import today's events into your plan, as described above.</li>
+      <li><strong>Internet</strong>: for AI replies you turn on, ads on the free plan, crash reports, and Google Play.</li>
+      <li><strong>Billing</strong>: for Pro subscriptions through Google Play.</li>
+      <li><strong>Advertising ID</strong> (added by the AdMob SDK): used by Google for ads on the free plan.</li>
     </ul>
   </div>
 
   <div class="card">
-    <h2>2. Third-Party SDKs That Collect Data</h2>
-
-    <p>The following third-party services are integrated in the app. Each operates
-    under its own privacy policy.</p>
-
-    <p><strong>Firebase Analytics (Google)</strong><br/>
-    We use anonymous, aggregated usage events (e.g. "rule created", "paywall opened")
-    to understand how the app is used. No message content or personal data is included
-    in any analytics event. Analytics is tied to a random app-instance ID, not to your
-    name or Google account.
-    <br/><a href="https://firebase.google.com/support/privacy" target="_blank">Firebase Privacy Policy →</a></p>
-
-    <p><strong>Firebase Crashlytics (Google)</strong><br/>
-    Automatically collects crash reports to help us fix bugs. Reports include device
-    model, OS version, stack trace, and app state at the time of the crash. They do
-    not include notification content or reply text.
-    <br/><a href="https://firebase.google.com/support/privacy" target="_blank">Crashlytics Privacy Policy →</a></p>
-
-    <p><strong>Google AdMob &amp; User Messaging Platform (Google)</strong><br/>
-    Free-tier users may see ads served by AdMob. Google may use device identifiers
-    (Advertising ID) to serve relevant ads, subject to your device's ad personalisation
-    settings. The UMP SDK is used to collect consent in applicable regions (GDPR/CCPA).
-    <br/><a href="https://policies.google.com/technologies/ads" target="_blank">Google Ads Privacy Policy →</a></p>
-
-    <p><strong>Google Play Billing (Google)</strong><br/>
-    In-app purchases (weekly, monthly, and yearly plans) are processed entirely by
-    Google Play. We never see or store your payment information.
-    <br/><a href="https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice" target="_blank">Google Play Payments Privacy →</a></p>
-
-    <p><strong>Firebase Cloud Messaging (Google)</strong><br/>
-    We may send you push notifications via FCM — for example, to remind you to
-    claim your daily diamond reward or to announce new features. FCM assigns
-    your device a registration token. We do not store individual tokens on our
-    servers; notifications are delivered via topic-based broadcasts. You can
-    disable notifications at any time in your device's app notification settings.
-    <br/><a href="https://firebase.google.com/support/privacy" target="_blank">Firebase Privacy Policy →</a></p>
+    <h2>8. Sharing and Selling</h2>
+    <p>
+      We do not sell, rent or trade your information, and we have no server that receives it. Data leaves your phone
+      only as described above: chats to the AI provider you set up (if AI is on), ad data to Google AdMob (free plan),
+      crash reports to Firebase Crashlytics, and purchases through Google Play.
+    </p>
   </div>
 
   <div class="card">
-    <h2>3. Permissions Explained</h2>
+    <h2>9. Retention and Deletion</h2>
     <ul>
-      <li>
-        <strong>Notification access (NotificationListenerService)</strong> —
-        Required to read incoming notifications from WhatsApp, WhatsApp Business,
-        Telegram, Instagram, and Facebook Messenger, and to send replies via
-        RemoteInput. You grant this explicitly in Android Settings. You can
-        revoke it at any time; the app will stop working but your data is unaffected.
-      </li>
-      <li>
-        <strong>POST_NOTIFICATIONS</strong> —
-        Used to show you status notifications (e.g. "reply sent", "service running",
-        daily diamond reminders, and updates).
-      </li>
-      <li>
-        <strong>FOREGROUND_SERVICE / FOREGROUND_SERVICE_SPECIAL_USE</strong> —
-        Required on Android 14+ to keep the reply service alive in the background.
-        No extra data collection occurs.
-      </li>
-      <li>
-        <strong>REQUEST_IGNORE_BATTERY_OPTIMIZATIONS</strong> —
-        Lets you exempt ReplyBro from battery optimisation so the listener keeps
-        running. You choose whether to grant this; replies still work without it,
-        but may be delayed when the device is idle.
-      </li>
-      <li>
-        <strong>ACCESS_NOTIFICATION_POLICY</strong> —
-        Lets ReplyBro detect whether your phone is in Do-Not-Disturb mode so it can
-        skip replies when you've asked the device to stay silent.
-      </li>
-      <li>
-        <strong>INTERNET / ACCESS_NETWORK_STATE</strong> —
-        Used only by Firebase (analytics, crash reporting, cloud messaging) and
-        AdMob. Not used to upload your messages or rules.
-      </li>
-      <li>
-        <strong>BILLING</strong> —
-        Required for Google Play in-app subscription purchases.
-      </li>
+      <li>Activity history is deleted automatically after 30 days; <em>Settings → Clear activity history</em> deletes it at once.</li>
+      <li>Uninstalling ReplyBro deletes everything it stores on your phone. A Google account backup, if any, follows Android's backup settings.</li>
+      <li>Messages sent to your AI provider are kept according to that provider's terms.</li>
+      <li>Crashlytics keeps crash reports for up to 90 days. AdMob data is kept under Google's policies.</li>
     </ul>
   </div>
 
   <div class="card">
-    <h2>4. Data Retention &amp; Deletion</h2>
+    <h2>10. Security</h2>
     <p>
-      All personal data (reply log, rules, settings, wallet balance) is stored
-      solely on your device. To delete it completely, uninstall the app.
-      You can also clear the reply log from within the app at any time.
-    </p>
-    <p>
-      Anonymous analytics and crash data retained by Google/Firebase is subject
-      to their respective retention policies (typically 14 months for Analytics).
+      Your API key is encrypted with the Android Keystore and never leaves your phone except to your AI provider.
+      All network connections use HTTPS.
     </p>
   </div>
 
   <div class="card">
-    <h2>5. Sensitive Information We Do Not Collect</h2>
+    <h2>11. Children's Privacy</h2>
     <p>
-      ReplyBro does not request, collect, or transmit sensitive personal
-      information such as your real name, phone number, email address,
-      precise location, contacts list, photos, financial details, health
-      data, religious or political opinions, or biometric identifiers.
-      Notification content is processed in memory on your device only and
-      is never uploaded.
+      ReplyBro is not directed at children under 13 and we do not knowingly collect information from them.
+      AI replies need an API key from a provider whose own age rules apply (Google requires users to be 18 or older).
     </p>
   </div>
 
   <div class="card">
-    <h2>6. Disclosure of Personal Information</h2>
+    <h2>12. Changes to This Policy</h2>
     <p>
-      We do not sell, trade, rent, or otherwise transfer your personal
-      information to outside parties. The only data that leaves your
-      device is the anonymous, aggregated telemetry described in
-      Section 2, sent directly to the respective third-party services
-      (Google/Firebase, AdMob) under their own privacy policies.
+      We will update this page when the app's data practices change, and change the date at the top. If we add a
+      service that receives your messages, such as a ReplyBro AI server, this policy will describe it before the app
+      uses it.
     </p>
   </div>
 
   <div class="card">
-    <h2>7. Interest-Based Advertising</h2>
+    <h2>13. Contact Us</h2>
     <p>
-      Free-tier users may see ads served by Google AdMob. Google may use
-      your device's Advertising ID to personalise these ads. You can
-      reset your Advertising ID or opt out of interest-based ads at any
-      time:
-    </p>
-    <ul>
-      <li><strong>Android:</strong> Settings → Google → Ads → "Delete advertising ID" / "Opt out of Ads Personalisation".</li>
-      <li><strong>Google account-wide:</strong>
-        <a href="https://adssettings.google.com" target="_blank">adssettings.google.com</a>
-      </li>
-      <li><strong>Industry-wide opt-out:</strong>
-        <a href="https://www.aboutads.info/choices/" target="_blank">aboutads.info/choices</a> and
-        <a href="https://youradchoices.com" target="_blank">youradchoices.com</a>
-      </li>
-    </ul>
-    <p>
-      In regions covered by GDPR or CCPA, the Google User Messaging
-      Platform (UMP) consent form is shown on first launch so you can
-      choose between personalised and non-personalised ads.
-    </p>
-  </div>
-
-  <div class="card">
-    <h2>8. Children's Privacy</h2>
-    <p>
-      ReplyBro is not directed at children under 13. We do not knowingly collect
-      personal information from children. If you believe a child has provided
-      personal information through the app, please contact us so we can address it.
-    </p>
-  </div>
-
-  <div class="card">
-    <h2>9. Changes to This Policy</h2>
-    <p>
-      We may update this policy as the app evolves. The "last updated" date at
-      the top of this page reflects the most recent revision. Continued use of
-      the app after changes constitutes acceptance of the updated policy.
-    </p>
-  </div>
-
-  <div class="card">
-    <h2>10. Contact Us</h2>
-    <p>
-      Questions about this policy?<br/>
-      Email: <a href="mailto:ishubhamx0@gmail.com">ishubhamx0@gmail.com</a>
+      Questions about this policy or your data:<br/>
+      Email: <a href="mailto:ishubhamx0@gmail.com">ishubhamx0@gmail.com</a><br/>
+      Developer: SSV Makers
     </p>
   </div>
 
