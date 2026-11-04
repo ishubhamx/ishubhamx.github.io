@@ -203,8 +203,14 @@ excerpt_separator: ""
     </p>
     <p>
       <strong>Firebase Crashlytics (Google).</strong> If the app crashes, a crash report is sent so we can fix it: the
-      error and stack trace, device model, Android version, app version and a random installation ID. Reports never
+      error and stack trace, device model, Android version, app version and a random installation ID. Crash reports never
       include messages, contact names, replies or your API key.
+    </p>
+    <p>
+      <strong>Reporting an AI reply.</strong> In Activity you can report a reply the AI wrote (for example, if it was
+      offensive or wrong). The report is sent to us through Firebase Crashlytics with the next upload: your reason, any
+      note you type, the AI provider and the messaging app. The message and the reply are included only if you tick
+      <em>Include this message and reply</em>. We use reports only to improve AI replies.
       <br/><a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Firebase privacy →</a>
     </p>
     <p>
@@ -242,7 +248,7 @@ excerpt_separator: ""
     <p>
       We do not sell, rent or trade your information, and we have no server that receives it. Data leaves your phone
       only as described above: chats to the AI provider you set up (if AI is on), ad data to Google AdMob (free plan),
-      crash reports to Firebase Crashlytics, and purchases through Google Play.
+      crash reports and any AI-reply reports you send to Firebase Crashlytics, and purchases through Google Play.
     </p>
   </div>
 
@@ -252,7 +258,7 @@ excerpt_separator: ""
       <li>Activity history is deleted automatically after 30 days; <em>Settings → Clear activity history</em> deletes it at once.</li>
       <li>Uninstalling ReplyBro deletes everything it stores on your phone. A Google account backup, if any, follows Android's backup settings.</li>
       <li>Messages sent to your AI provider are kept according to that provider's terms.</li>
-      <li>Crashlytics keeps crash reports for up to 90 days. AdMob data is kept under Google's policies.</li>
+      <li>Crashlytics keeps crash reports and AI-reply reports for up to 90 days. AdMob data is kept under Google's policies.</li>
     </ul>
   </div>
 
