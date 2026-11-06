@@ -82,7 +82,7 @@ excerpt_separator: ""
 
 <header>
   <h1>Privacy Policy</h1>
-  <p>ReplyBro 3.0 &nbsp;·&nbsp; Last updated: November 4, 2026</p>
+  <p>ReplyBro 3.0 &nbsp;·&nbsp; Last updated: November 5, 2026</p>
 </header>
 
 <main>
@@ -129,6 +129,7 @@ excerpt_separator: ""
     <ul>
       <li><span class="badge">Rules</span> your quick-reply rules and per-chat choices (for example "never reply to this chat").</li>
       <li><span class="badge">Activity</span> a history of messages ReplyBro handled and the replies it sent or drafted. It is deleted automatically after 30 days, and you can clear it any time in Settings.</li>
+      <li><span class="badge">Recent chats</span> the last messages of each chat ReplyBro handles (up to 20, including the replies it sent and messages you typed that the notification shows), so AI replies follow the conversation and ReplyBro knows when you're replying yourself. They are deleted automatically after 24 hours, and <em>Clear activity history</em> deletes them too.</li>
       <li><span class="badge">Settings</span> your status, schedule, signature, apps to handle and other preferences.</li>
       <li><span class="badge">Today's plan</span> the times and statuses of your day, with your own notes. If you import your calendar, event titles are kept as private notes.</li>
       <li><span class="badge">Brain</span> what you tell the AI about yourself: name, description, tone, facts it may share, and things it must never do.</li>
@@ -137,7 +138,7 @@ excerpt_separator: ""
     </ul>
     <p>
       If you have Android backup turned on, Android may include your settings, today's plan, Brain profile and
-      diamond balance in your Google account backup. Rules, activity history and your API key are never backed up.
+      diamond balance in your Google account backup. Rules, activity history, recent chats and your API key are never backed up.
     </p>
   </div>
 
@@ -148,7 +149,7 @@ excerpt_separator: ""
       When a message has no matching rule, ReplyBro then sends the AI provider:
     </p>
     <ul>
-      <li>up to the 12 most recent messages of that chat, with the senders' names, and the chat or group name;</li>
+      <li>up to the 12 most recent messages of that chat (including replies ReplyBro sent earlier), with the senders' names, and the chat or group name;</li>
       <li>your Brain profile (name, description, tone, facts you allow it to share, and your "never" list);</li>
       <li>your current status (for example "in a meeting until 2 PM");</li>
       <li>only for contacts you choose to share your day with: the rest of today's plan as times and free/busy. Your notes and calendar event titles are never sent.</li>
@@ -255,7 +256,7 @@ excerpt_separator: ""
   <div class="card">
     <h2>9. Retention and Deletion</h2>
     <ul>
-      <li>Activity history is deleted automatically after 30 days; <em>Settings → Clear activity history</em> deletes it at once.</li>
+      <li>Activity history is deleted automatically after 30 days and recent chats after 24 hours; <em>Settings → Clear activity history</em> deletes both at once.</li>
       <li>Uninstalling ReplyBro deletes everything it stores on your phone. A Google account backup, if any, follows Android's backup settings.</li>
       <li>Messages sent to your AI provider are kept according to that provider's terms.</li>
       <li>Crashlytics keeps crash reports and AI-reply reports for up to 90 days. AdMob data is kept under Google's policies.</li>
