@@ -14,16 +14,21 @@ admob:
     <p>Depending on your consent and region, ads may be personalised. In the European Economic Area, the United Kingdom and Switzerland, the app asks for your consent through Google's consent form before personalised ads are shown, and you can change your choice at any time from <strong>Ad Privacy Options</strong> in the app's settings. You can also reset or delete your advertising ID, or opt out of ad personalisation, in your device's settings.</p>
     <p>Learn more in <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use its services</a> and the <a href="https://policies.google.com/privacy">Google Privacy Policy</a>.</p>
 
-gameanalytics:
-  heading: Analytics (GameAnalytics)
+firebase_analytics:
+  heading: Analytics (Google Analytics for Firebase)
   body: |
-    <p>GameAnalytics helps us understand how the app is used so we can improve it. GameAnalytics may collect:</p>
+    <p>Google Analytics for Firebase helps us understand how the app is used so we can improve it, for example which levels are too hard. It may collect:</p>
     <ul>
-      <li>a random identifier for your installation and, where available, device identifiers such as the advertising ID;</li>
-      <li>device information (model, operating system, language, country derived from your IP address);</li>
-      <li>usage events, such as sessions and the in-app events listed for each app.</li>
+      <li>a random app instance ID and, where available, device identifiers such as the Android advertising ID;</li>
+      <li>device and app information (model, operating system, language, app version) and the approximate location derived from your IP address;</li>
+      <li>usage data: sessions, time spent in the app, and the in-app events and game progress described below.</li>
     </ul>
-    <p>This information is not used to identify you personally. See the <a href="https://gameanalytics.com/privacy">GameAnalytics Privacy Policy</a>.</p>
+    <p>We do not use this information to identify you personally. In the European Economic Area, the United Kingdom and Switzerland, Google Analytics follows the choice you make in Google's consent form. Data is kept for the retention period set in Google Analytics (2 to 14 months). See <a href="https://firebase.google.com/support/privacy">Privacy and security in Firebase</a> and the <a href="https://policies.google.com/privacy">Google Privacy Policy</a>.</p>
+
+crashlytics:
+  heading: Crash reports (Firebase Crashlytics)
+  body: |
+    <p>If the app crashes or hits an error, Firebase Crashlytics sends a report so we can fix it. A report contains the stack trace, device and app information (model, operating system, app version, free memory and storage), a random Crashlytics installation ID, and the app's recent steps and state at the time, such as the screen and level being played. Crashlytics keeps crash reports for 90 days. See <a href="https://firebase.google.com/support/privacy">Privacy and security in Firebase</a>.</p>
 
 playgames:
   heading: Cloud save (Google Play Games)

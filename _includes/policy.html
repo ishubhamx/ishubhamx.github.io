@@ -13,14 +13,14 @@
 <p>{% if cloud %}The app has no accounts of its own; signing in to Google Play Games is optional (see below).{% else %}The app has no accounts or sign-in.{% endif %} We do not ask for your name, email address, phone number, contacts, photos, or precise location.</p>
 
 <h2>Information stored on your device</h2>
-<p>{{ app.on_device }} are saved {% unless cloud %}only {% endunless %}on your device. They are not sent to us. Uninstalling the app deletes them{% if cloud %}, except for a copy you have saved to Google Play Games{% endif %}.</p>
+<p>{{ app.on_device }} are saved {% unless cloud %}only {% endunless %}on your device. {% if app.progress %}Apart from the summary sent with analytics (see below), they are not sent to us.{% else %}They are not sent to us.{% endif %} Uninstalling the app deletes them{% if cloud %}, except for a copy you have saved to Google Play Games{% endif %}.</p>
 
 {%- for key in app.services %}
 {%- assign service = site.data.services[key] %}
 <h2>{{ service.heading }}</h2>
 {{ service.body }}
-{%- if key == "gameanalytics" and app.events %}
-<p>In-app events include {{ app.events }}.</p>
+{%- if key == "firebase_analytics" and app.events %}
+<p>In-app events include {{ app.events }}.{% if app.progress %} Each report also carries {{ app.progress }}.{% endif %}</p>
 {%- endif %}
 {%- endfor %}
 

@@ -29,7 +29,8 @@ play: https://play.google.com/store/apps/details?id=com.ssvmakers.myapp   # opti
 services: [admob]                   # keys from _data/services.yml
 on_device: Your notes and settings  # what the app saves only on the device
 reset: Settings > Reset             # optional: in-app way to delete that data
-events: notes created and deleted   # optional: analytics events (with gameanalytics)
+events: notes created and deleted   # optional: analytics events (with firebase_analytics)
+progress: your current level        # optional: analytics user properties (with firebase_analytics)
 ---
 ```
 
@@ -39,5 +40,5 @@ events: notes created and deleted   # optional: analytics events (with gameanaly
 
 ## Edit shared text
 - Developer name, contact email and the generated policies' effective date: `_config.yml`.
-- Third-party services (AdMob, GameAnalytics, ...): `_data/services.yml`.
+- Third-party services (AdMob, Firebase Analytics, Crashlytics, ...): `_data/services.yml`.
 - Sections every generated policy shares: `_includes/policy.html`.
