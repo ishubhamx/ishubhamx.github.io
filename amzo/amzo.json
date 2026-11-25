@@ -1,0 +1,218 @@
+{
+  "_comment": "Sample content. Replace the items with real sales and deals before publishing. Format: see README.md.",
+  "privacyPolicyUrl": "https://ishubhamx.github.io/amzo/privacy.html",
+  "affiliateLink": "",
+  "slides": [
+    {
+      "id": "big-sale",
+      "title": "Year End Sale is coming",
+      "subtitle": "Phones, laptops and TVs at their lowest",
+      "url": "https://www.amazon.in/deals",
+      "image": "",
+      "color": "#E8590C"
+    },
+    {
+      "id": "big-billion",
+      "title": "Upgrade your phone for less",
+      "subtitle": "Exchange offers and no-cost EMI",
+      "url": "https://www.flipkart.com/offers-store",
+      "image": "",
+      "color": "#1864AB"
+    },
+    {
+      "id": "fashion",
+      "title": "Winter fashion, up to 70% off",
+      "subtitle": "Jackets, sweaters and boots",
+      "url": "https://www.myntra.com/",
+      "image": "",
+      "color": "#A61E4D"
+    }
+  ],
+  "flashSales": [
+    {
+      "id": "redmi-note-15",
+      "name": "Redmi Note 15 Pro 5G",
+      "store": "Amazon",
+      "saleStartsAt": "2026-11-24T12:00:00+05:30",
+      "url": "https://www.amazon.in/s?k=redmi+note+15+pro",
+      "image": "",
+      "color": "#5F3DC4",
+      "variants": [
+        {
+          "id": "8-128",
+          "name": "8GB · 128GB",
+          "price": 21999,
+          "url": "https://www.amazon.in/s?k=redmi+note+15+pro"
+        },
+        {
+          "id": "8-256",
+          "name": "8GB · 256GB",
+          "price": 23999,
+          "url": "https://www.amazon.in/s?k=redmi+note+15+pro"
+        }
+      ]
+    },
+    {
+      "id": "galaxy-m",
+      "name": "Samsung Galaxy M36 5G",
+      "store": "Amazon",
+      "saleStartsAt": "2026-11-27T12:00:00+05:30",
+      "url": "https://www.amazon.in/s?k=galaxy+m36",
+      "image": "",
+      "color": "#0B7285",
+      "variants": [
+        {
+          "id": "6-128",
+          "name": "6GB · 128GB",
+          "price": 16499,
+          "url": "https://www.amazon.in/s?k=galaxy+m36"
+        },
+        {
+          "id": "8-128",
+          "name": "8GB · 128GB",
+          "price": 17999,
+          "url": "https://www.amazon.in/s?k=galaxy+m36"
+        }
+      ]
+    },
+    {
+      "id": "poco-x",
+      "name": "POCO X8 Pro",
+      "store": "Flipkart",
+      "saleStartsAt": "2026-12-02T12:00:00+05:30",
+      "url": "https://www.flipkart.com/search?q=poco+x8+pro",
+      "image": "",
+      "color": "#F59F00",
+      "variants": [
+        {
+          "id": "8-256",
+          "name": "8GB · 256GB",
+          "price": 24999,
+          "url": "https://www.flipkart.com/search?q=poco+x8+pro"
+        },
+        {
+          "id": "12-512",
+          "name": "12GB · 512GB",
+          "price": 28999,
+          "url": "https://www.flipkart.com/search?q=poco+x8+pro"
+        }
+      ]
+    }
+  ],
+  "stores": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "url": "https://www.amazon.in/",
+      "searchUrl": "https://www.amazon.in/s?k={q}",
+      "color": "#232F3E",
+      "inApp": false
+    },
+    {
+      "id": "flipkart",
+      "name": "Flipkart",
+      "url": "https://www.flipkart.com/",
+      "searchUrl": "https://www.flipkart.com/search?q={q}",
+      "color": "#2874F0"
+    },
+    {
+      "id": "meesho",
+      "name": "Meesho",
+      "url": "https://www.meesho.com/",
+      "searchUrl": "https://www.meesho.com/search?q={q}",
+      "color": "#570D48"
+    },
+    {
+      "id": "myntra",
+      "name": "Myntra",
+      "url": "https://www.myntra.com/",
+      "searchUrl": "https://www.myntra.com/{q}",
+      "color": "#FF3F6C"
+    },
+    {
+      "id": "croma",
+      "name": "Croma",
+      "url": "https://www.croma.com/",
+      "searchUrl": "https://www.croma.com/searchB?q={q}",
+      "color": "#12DAA8"
+    },
+    {
+      "id": "ajio",
+      "name": "AJIO",
+      "url": "https://www.ajio.com/",
+      "searchUrl": "https://www.ajio.com/search/?text={q}",
+      "color": "#2C4152"
+    },
+    {
+      "id": "tatacliq",
+      "name": "Tata CLiQ",
+      "url": "https://www.tatacliq.com/",
+      "searchUrl": "https://www.tatacliq.com/search/?searchCategory=all&text={q}",
+      "color": "#DA1C5C"
+    }
+  ],
+  "deals": [
+    {
+      "id": "buds",
+      "name": "boAt Airdopes 141 ANC Earbuds",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=boat+airdopes+141+anc",
+      "newPrice": 1299,
+      "oldPrice": 4490,
+      "image": "",
+      "color": "#C2255C"
+    },
+    {
+      "id": "watch",
+      "name": "Noise ColorFit Pro 6 Smartwatch",
+      "store": "Flipkart",
+      "url": "https://www.flipkart.com/search?q=noise+colorfit+pro+6",
+      "newPrice": 3999,
+      "oldPrice": 6999,
+      "image": "",
+      "color": "#1971C2"
+    },
+    {
+      "id": "powerbank",
+      "name": "Mi 20000mAh Power Bank 33W",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=mi+20000mah+power+bank",
+      "newPrice": 1799,
+      "oldPrice": 2999,
+      "image": "",
+      "color": "#2B8A3E"
+    },
+    {
+      "id": "trimmer",
+      "name": "Philips BT3241 Beard Trimmer",
+      "store": "Flipkart",
+      "url": "https://www.flipkart.com/search?q=philips+bt3241",
+      "newPrice": 1499,
+      "oldPrice": 2195,
+      "image": "",
+      "color": "#E8590C"
+    }
+  ],
+  "tips": [
+    {
+      "id": "be-early",
+      "title": "Be ready before the sale",
+      "message": "Log in to the store app, save your address and payment method, and open the product page 2 minutes before the sale starts.",
+      "color": "#5F3DC4"
+    },
+    {
+      "id": "cart",
+      "title": "Out of stock after adding to cart?",
+      "message": "Don't remove it from your cart. Refresh your cart at the start of the next sale and check again.",
+      "color": "#E8590C"
+    },
+    {
+      "id": "privacy",
+      "title": "Your privacy",
+      "message": "AMZO has no accounts and never sees your store logins or orders.",
+      "buttonText": "Read the policy",
+      "url": "https://ishubhamx.github.io/amzo/privacy.html",
+      "color": "#1971C2"
+    }
+  ]
+}
