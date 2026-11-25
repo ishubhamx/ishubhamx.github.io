@@ -153,6 +153,16 @@
   ],
   "deals": [
     {
+      "id": "tg-2",
+      "name": "HRX Parabola 3-Piece Luggage Set",
+      "store": "Amazon",
+      "url": "https://amzn.to/4jeSkHU",
+      "newPrice": 3999,
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-25T15:59:43+00:00"
+    },
+    {
       "id": "buds",
       "name": "boAt Airdopes 141 ANC Earbuds",
       "store": "Amazon",
