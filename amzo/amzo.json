@@ -103,10 +103,11 @@
     {
       "id": "amazon",
       "name": "Amazon",
-      "url": "https://www.amazon.in/",
-      "searchUrl": "https://www.amazon.in/s?k={q}",
+      "url": "https://www.amazon.in/?tag=amzodealz-21",
+      "searchUrl": "https://www.amazon.in/s?k={q}&tag=amzodealz-21",
       "color": "#232F3E",
-      "inApp": false
+      "inApp": false,
+      "affiliateLink": ""
     },
     {
       "id": "flipkart",
@@ -152,6 +153,45 @@
     }
   ],
   "deals": [
+    {
+      "id": "tg-6",
+      "name": "Fair and Handsome Smart And Handsome Face Wash, Instant Brightening, Instant Freshness, 150g",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0B4GYZ4FR?tag=amzodealz-21",
+      "newPrice": 189,
+      "image": "https://cdn4.telesco.pe/file/l2ESplMBnP8ZIhLQxevSGi1lbhAyIIHdQpJYv03ZRMgmkKDsKmepsJ3aEXQ7rytcoK_ZkH977aCyABH0t_BgH9T8pDexT6luJI4IDpmRO2jbvkP7rYmKV4Ph_tf-_kcnL5oFdJfbLNTk07a73g_LL2zucLeDEVksJatVrfvRD3VmAojQlBZDFuwoM50rrcsWE7Tq3Aln266qLG1aS4UpXqyVBUEOAIEVvmg3qfmL3pLll3oS04hGdHJEee2xHD2e8ajG5gUHPYNALZTQsJFY4da_siu_nOj2dRTHO5qB0zKwK3BYRbQxamCOo6TLjewkENCM1Zpgkkz3tZGIUn35HQ.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-26T14:38:36+00:00"
+    },
+    {
+      "id": "tg-5",
+      "name": "Fast 169",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0BFHSF4GQ?tag=amzodealz-21",
+      "image": "https://cdn4.telesco.pe/file/pK3O-q5mgNmzzsncYsPlnuPAhNR9dZ8MCiVFkVc5UFg4qZF1xEffWzD-Z2t2zeBo4VQtd9xzIgZj35xSzq4nwvRxqmINqzfQHx5ODKdDGdNvjkP_gk4KF_4d-yq01flc6Dcc7ni0keW5QZsN34s7qg_RDYQ6uQftPLUm-pMLh0XMy5wbH768p0HCGlye567oM6rWy7DleUmM7UIYJCJpJX_Y4wbpuAa0XfEpRt7o3LGDHdE_aoJI_epwErZ7xRuAVAppfbca8xSsjEO-ySsitZ6GoLqIXM4gKjVsOORPoosax8hUvDZRvK34qb9wZ2A8WUo_EnOWpGHfoPxw5SwGgw.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-26T14:38:32+00:00"
+    },
+    {
+      "id": "tg-4",
+      "name": "Levi's Comfort Brief For Men",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B07X56864J?tag=amzodealz-21",
+      "newPrice": 290,
+      "image": "https://cdn4.telesco.pe/file/XSRZxqEmfl-otS42h6uReALwHal1dpFzLMaXA5O-orXG549RwL3LduLGWfym8INx0ahDpXQh0ASdxnCS6G6R38VN6WmLp04TdDyhbSft5XH5zSG35BdfBsFefeu7MbosBL2WP10kwA4wu5QiObV-V-HS6Qzi3gLPmSTmYdOQRzqpe3Yjgm1G16zEAUqGrgQksQfByw4iEoRlnPgEo17qPonbT1xEHTgAwjathvDZFciaeAsCCd4N1aIrI5MR2A28n9yyt0VVTR1pwXWUdD_9O3Hf4EdQpLEMNSriVlGI4Pmeuh-UVSxIAX-G5W_6FjWiVS4mkbPX9jhM0ScIVmHqgA.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-26T14:38:26+00:00"
+    },
+    {
+      "id": "tg-3",
+      "name": "Indus Route by Pantaloons Mens Waistcoat",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0DSLL7LZK?tag=amzodealz-21",
+      "newPrice": 439,
+      "image": "https://cdn4.telesco.pe/file/utSf1OEn69g2wXipC6jpJRkE6wYEW11xLQI0XOpG_7rrcaVsZ32a-DYdz5Rhf7FHbq4OkNs2ltoL63Cc7I5Z_mxwipFa5uCb3QrO2bw_wc4K1pNIdaMsqPtxgw2cJCsG52P-vM-lnwPxrSEr2JufEfE5nXOqQGUImXmPR5zG9IxZOYHIdOQ3gEUKH9NhZXomX12-q3BcDfjlx7wf8K-7YoYg68KHPKCJlZmlGrQWK8-pHoINUj3r89wx80CqJ-tNlTEGF8RC-UISeCZpTDyLTfCFM6gHKZa5f3AX6Gj1oDsus_YpRqKl3HxTDvXXUtEAtTPWJP1yu_Vrz_T_Ib3dzg.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-26T14:38:22+00:00"
+    },
     {
       "id": "tg-2",
       "name": "HRX Parabola 3-Piece Luggage Set",
