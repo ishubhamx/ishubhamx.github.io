@@ -154,12 +154,155 @@
   ],
   "deals": [
     {
+      "id": "tg-20",
+      "name": "Beardo SPF 50 PA+++ Body Lotion 250 ml",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B09MJ4L2MM?tag=amzodealz-21",
+      "newPrice": 120,
+      "image": "https://cdn4.telesco.pe/file/ToCcBMoKl1AN2_SMJ4wpwEWUxBEi9RV09tvhNjVTOdUBSfR9dj_fdg5Wy93QCd5JAx0jVPhM99AfCpYotWkTzZf8HgF5jqIOjAIgAihu4XZiNfoGmZuYf0gV8n113nNY1TM8bP7Opep2EbMbtfUaXkkMigmMCYH6ksMnM1RdOKUSrgirtF_EZtc_uXcuJd0YS-rMs6o2doNp935hRgXNXDniKNyQNQni3U9tTWZmwBtCaQBCFp8v_8VRZzFzyH5m-gRZqrP0cGWshhpSYfC8hfjPxHAP0445JdJWk0WItxuvDdCPhCvHxXyvKHpTOhMwC-M-118oNtNgh92ivGvWQg.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T18:25:26+00:00"
+    },
+    {
+      "id": "tg-19",
+      "name": "Gear 31L Laptop Backpack",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0DY4JCZ46?tag=amzodealz-21",
+      "newPrice": 985,
+      "image": "https://cdn4.telesco.pe/file/tCQeabseCmjHAuee_p15sGaxbjfJq0QNhFAYywxY1YqNhxaXwzCqk0wyubL87h2R6-RrIVzJOwp7sMfjEixD9wT3pB_nlStYXhZVO1uwI34UxveSnvvZr4Sj6T0u8WHs0eBqWRpZWEAHy8nnBYCU9zvouww6Xsw9pPm_qwDMYdkEnDJy2Z3mSRV-gik7cm9KEh1feAyZXPRM4c984VwWuRPPgtnRIItr40N1P76x8dB3QTcpdF7GJB_ExOGG9UAvSfDpt6IzeYSgGw86XdKO2EtkXCQdHcLx1v9aW2D3KnTE_FoPeUAF3HpRa3L6kRbbCM9LNaxbEVz0NhTwoDY_Mw.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T18:00:43+00:00"
+    },
+    {
+      "id": "tg-18",
+      "name": "Apply Upto 50% Off Coupon On Saffola Products",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?hidden-keywords=B0GGHLBJL3+%7C+B09KV1R96H+%7C+B0H1JMCXHF+%7C+B0GGJ2TH8Z+%7C+B0HGQQL5S8+%7C+B0G1SKX4CM&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T16:59:13+00:00"
+    },
+    {
+      "id": "tg-17",
+      "name": "Upto 74% Off On Red Chief Shoes",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=Red+Chief&rh=n%3A1983396031%2Cp_123%3A439253%2Cp_n_pct-off-with-tax%3A68-&i=shoes&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T16:43:56+00:00"
+    },
+    {
+      "id": "tg-16",
+      "name": "Loot 1819",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0D181N2XW?tag=amzodealz-21",
+      "image": "https://cdn4.telesco.pe/file/f1TgIS9eZZRzeZKoE5j1rhx9UhuAL4fk2nYSNDClTtkh0Oh3fgjOQfG4wuG_qpecHHhTZoi6uKBpx_pSD_EsRjSNIttr9vYHaU8oVQwYrZFtBbKpuPUyfur8_1hAm1hqfxRQeDuv5dm0FmVQfrIKym93Zi53-ygi5ovVgQNQ71TFfuulWPOJVeXYUn1ez0hFF6aoeCaXVyiFuUCD0an1QHE5kCQKBjAM1X-ZsZJxh2hiwBOQspf6cNSQ_O-h7UPOzHjuSod4YerncWym2ppAhYGY-olzPMZwBM5re32xfrX_5CA92fvBMJsSNWPEwOFWYxsA-sztrfl9xqLb_S9ePQ.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T16:18:12+00:00"
+    },
+    {
+      "id": "tg-15",
+      "name": "Allen Solly Women Boots",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0DR9FFL8G?tag=amzodealz-21",
+      "newPrice": 703,
+      "image": "https://cdn4.telesco.pe/file/KjLBySnsKvRgnivSkGY5VR97G5eTIVlzfhJFQV6L0RRPZVTnWhfN3uNFtN_V8TQqPEnIGzTxxVSlcgNrLsZQIImTRyyYEq7BE8fOBvkJSxJJ59lxYY-v7Rkf-BPgAv0r1RqSBz0uN9GHkf_6d0BaB4_Mwi8MnmGRTZ7DsvwRnkfqK7U_laqM6ihmpuLBZIom8zpRkgCJMYN3h4hdHpwhx63rHYB_UhX7P9StWutKbQJN0YSfYho0yMukFtfc0f1bvnzigeSJUTrDl6WrKL0rBrEaWKrUxFk6zd9A1mtzKue-B6bqvUBIoreKHDWnFmB6aU1r0WUwOAjFvR-7HjPoAg.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T15:10:13+00:00"
+    },
+    {
+      "id": "tg-14",
+      "name": "Livon Hair Serum, 200 ml",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0C6XT96MC?tag=amzodealz-21",
+      "newPrice": 247,
+      "image": "https://cdn4.telesco.pe/file/rKIX98hh29-veNeU9bFZAsCrLO8HqEhSNDsBxdqYYZTF39SksYHWFLhTPf1fTpn0qTvJKzvzHAUpNZW_8bgUQGe48Rq6a-w18ulI-I9emgEGUzzKgmQlICzVtW3e-52eCfTsPlQ_jTsKCljN4OZkj4iTVCk8GCeht2JO-mAdjxu0nRza3o0p4Ov5OC6_vLazJpdun4OHtVpZmOIjrw7ksT6uTs0oPUYAjxciwEwpuIhgqU1FGjRm_xc2YGqVL7QPAHFSF4LT1RqJpN0cD4Aw-EmttBT2m-diY2_Bw9sF17Z4GLprwNgD_0zmGxOM5XOf-VxqCA4pKd0i142CtZMyeg.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T14:48:55+00:00"
+    },
+    {
+      "id": "tg-13",
+      "name": "Upto 70% Off On Signoraware Products",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=Signoraware&rh=n%3A976442031%2Cp_123%3A340288%2Cp_6%3AAXOGFIT0PZZ7G%2Cp_n_pct-off-with-tax%3A2665402031&s=exact-aware-popularity-rank&i=kitchen&xpid=mX8zpl_xQFf99&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T14:39:22+00:00"
+    },
+    {
+      "id": "tg-13-1",
+      "name": "Upto 70% Off On Signoraware Products",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=Signoraware&rh=n%3A976442031%2Cp_123%3A340288%2Cp_6%3AAXOGFIT0PZZ7G%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&i=kitchen&xpid=mX8zpl_xQFf99&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T14:39:22+00:00"
+    },
+    {
+      "id": "tg-12",
+      "name": "Treo By Milton Opalware Dinner Set Of 6",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0G7ZN1868?tag=amzodealz-21",
+      "newPrice": 435,
+      "image": "https://cdn4.telesco.pe/file/TnK0k3yEgYw5klDEWCQxnHTRI58foB12z_Sd2sal0bKVI051yhQPF3-r0Nuys2VlPbrUi8pMF0MUH889uzfdmUZo2tlAUSeYnkWdKC_21bE7LoBcDpeu3eSGtoJd2g8Tk_HOscga8npnx0P_2hXpnwrFsC3dJzCYGhcq0wZkBL1EMXMNpdhNP5NoA5_M7MnZDKRlssslJBYDTVq-OOBrrOUB1jv89et-1bBGJjEnARKJihH_fCaLgtI_ECvsNfQnklnCI8juqjCAKlcEJ0y2DJVFLPY12qxwmTpB378PlT5I86mv4RJJ8C2mD1R9rmLX1Qh1yXcPfWv8mi-b0DbCsA.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T14:20:46+00:00"
+    },
+    {
+      "id": "tg-11",
+      "name": "United Colors of Benetton Glass Water Bottle 750ML With Silicone Base",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0G4N8ZPZX?tag=amzodealz-21",
+      "newPrice": 399,
+      "image": "https://cdn4.telesco.pe/file/lnLYD2nyZgtDCx6o2IpGykYb8jAQd_YAL6684omw3m6zDAtgkGVL0X4zZJlxgG1oiLzpBI2royGA4MwNzkRs2-V5_YUxWwRJUrYuIOpiGYLx9rdq0K0NVy_5uxQUn67fwof-WZhGcRhaDzrlsztEI83Qte4S2DJ6awCtE1XA1atf4XGXlulgaOmmbT3mChofP2YIEigBE0frx1k0bLLDmd6lZXICHfzOCn5pY_xjp9tNpfMDmErxd7DzkNFU7HetZOrhlKCerRsd47VYdj7okNHPXHcs1PQ5DTkS0DjTjLqiiNMUt_sQ7EHRs3Jhwca-cJfO7AVxipkdYyelkfzUQw.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T13:46:01+00:00"
+    },
+    {
+      "id": "tg-10",
+      "name": "Toilet Cleaner for Bathroom Cleaning and Household Toilet Care with Angled Nozzle Bottle and Ribbed Cap for Application ",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0HMHJPJ2Z?tag=amzodealz-21",
+      "newPrice": 29,
+      "image": "https://cdn4.telesco.pe/file/QoOin-an3oVELRAbqMRs5-lP4A6JDZYMKag86j2LtT0SJy6H3aWe_4wOGOI09iVwyPVykL5ZVkrMvl1799UlzeVAhSsobQiZEdMOl6BYgn5264J6h3HrDwq9SCP3PP194QvoZyqmOXZ1VgrKpE8ECHhxGgcMhh7sJFHX4feoIHcDxCDVK6J5P0gOF4McBm04wAcrS0nt7lYzsRR01fl4F1iv-ozmlYLvgSysaIPEDyJ4tTzQ6KZAHZ9klAHpXnqTaRuNptjJVnMq9v76qkkHFd5Av45yjeAs1vB1BYi1EdcRpwUlCz1SD64QsfOhxFOG_6cyYOuK_xB-xxTnv75xNA.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T13:09:15+00:00"
+    },
+    {
+      "id": "tg-8",
+      "name": "Stock Up Black Friday Sale : Flat 25% Off + Additional Coupon On Mille Yeast Protein Unflavoured (500g x 2)  + Coupon",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0H34X873X?tag=amzodealz-21",
+      "image": "https://cdn4.telesco.pe/file/t1QoFBp0TS1OdI_y9CUd2ZIS8OnAlCU8NbE3i80Ty52TZHgSLi-dix5MAjMRUShrNttgCTM2rN5734dF-qIO0ObsaLGsh2NguyOc2-rUk9XBNUAMnRYC0YwycgK82_Qkof-CyIcgoB8opirR8ohrBugiv51KIJSkJr2_-nbQunUYZyT2pBGz-KlJqd_vTsaHrqjC8yWe7Ab9CmPWuuKhvzGAhxh_5mrYjSrbRMrxMoLg_wZjECQyfsigXyKyfO1iQPzV-eFPF-pGqWYlGZP_sh6t-BKwNdleKF9AWnqt5spQYi-w3reolDWbFIoXBT40OFHAs92689x2ntrieiZiJg.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T12:47:08+00:00"
+    },
+    {
+      "id": "tg-8-1",
+      "name": "Stock Up Black Friday Sale : Flat 25% Off + Additional Coupon On Mille Yeast Protein Unflavoured (500g x 2)  + Coupon – ",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0HQJTCJL5?tag=amzodealz-21",
+      "newPrice": 2655,
+      "image": "https://cdn4.telesco.pe/file/t1QoFBp0TS1OdI_y9CUd2ZIS8OnAlCU8NbE3i80Ty52TZHgSLi-dix5MAjMRUShrNttgCTM2rN5734dF-qIO0ObsaLGsh2NguyOc2-rUk9XBNUAMnRYC0YwycgK82_Qkof-CyIcgoB8opirR8ohrBugiv51KIJSkJr2_-nbQunUYZyT2pBGz-KlJqd_vTsaHrqjC8yWe7Ab9CmPWuuKhvzGAhxh_5mrYjSrbRMrxMoLg_wZjECQyfsigXyKyfO1iQPzV-eFPF-pGqWYlGZP_sh6t-BKwNdleKF9AWnqt5spQYi-w3reolDWbFIoXBT40OFHAs92689x2ntrieiZiJg.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T12:47:08+00:00"
+    },
+    {
+      "id": "tg-7",
+      "name": "Upto 91% Off On YOHO Footwears",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=YOHO&i=shoes&rh=n%3A1571283031%2Cp_123%3A1706866%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A77-&ds=v1%3Am1CmHHwqig0z4ipQNHUQfkwAr%2BxdjDVS2DXUr88X8xo&rnid=2665398031&btn_type=ss&btn_ref=srctok-6a66a564ec26b2d5&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T12:15:45+00:00"
+    },
+    {
       "id": "tg-6",
       "name": "Fair and Handsome Smart And Handsome Face Wash, Instant Brightening, Instant Freshness, 150g",
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0B4GYZ4FR?tag=amzodealz-21",
       "newPrice": 189,
-      "image": "https://cdn4.telesco.pe/file/JNm2makXZ3BGmT2laWjQWbH_pUUNpT1JDZgFzrCJ_Mk55c9-TZ-xjSBeTWKFiwfHudcnCLcCf0uT2Vnowb5YqAm1QzeG3FbHLlVPQ1W638AQIjL0RSOUONZ7o3hj705ndrhYwpm6oPjAxhwS5l0j4k4gM3cpvxJbV9XGjYTYu4chX9ldpujk7F86FypIM3SmfPo3X13c_uDQLmZ7RcU0H2PQJGHHIe5prORJsruywZcGmYzgKhJeNFVtuT4rAWa4ByKks8JDRZau0okmG9N3AiSsZ_dAeca0KyMgo1NEr8jrPjVWa8QChcojFTj5XBM5OfogzNiSR0ru5G6Q-Agv4g.jpg",
+      "image": "https://cdn4.telesco.pe/file/gVGnQSrCKq5gV6B3BCHqHdqbbEVcPtym9VQ6sKZdSiBfBKg9Q6CE5l6VQ-wY2HQTbdv_fknADJswnfpiSFnacSXvuewqq2Ao6wWo9qvUITdPL5BiIYBDsbywCRgPYrWhb4pIrciz10KpDepL-LESP_NfS-kgH_omrK6LJ1wa9S82OTQ0WcozsVlNyO9XzI3tYdJ1PFrwMW6ToUbjJcpOhctiRzUJmGLkiEoB-77Itk3Gvqz6E1ebEHIf655kB6SjxMDXQZQE4H5p5q8_TWAVkAao_gOhkp_yW9wGaGPki8LA_6tfsB6ziX13oBXlch8CLj366rOQl7pbtTMhtBlvMw.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-26T14:38:36+00:00"
     },
@@ -168,7 +311,7 @@
       "name": "Fast 169",
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0BFHSF4GQ?tag=amzodealz-21",
-      "image": "https://cdn4.telesco.pe/file/gMAWQ310tx7HCVOT6rpmbvbndhLDysQLgqfPTg16WjlIDMySU3XFcf7IvRtaZnX75QrrrORXrKtcb-FS1mtI-ojHmUhhwBx6SCl4x3ZsV_rX2VXvcjD6TGp5yg7NHsvWIuLNG_fcEH0dPffJLlDfB9zcPm-CuZSOT_CjCWsBWhMk_0ZFBbMjxPrU07nqdVT2bJePv7gv41AxtXZrVeEC7BDkb3dekIqGf8vRvDiewWicB_uAHYDVoCzhzOy66kVk7neNqQ4SU6gFTiQsCH0rorQIM3Jcg6w8RqkLbEjeyaxNnCdh35Hd3KY3Az_meJ6Jarix08JstZtu0xSpRR6yDw.jpg",
+      "image": "https://cdn4.telesco.pe/file/cliZDFP_geLX6GQIxoRJZrXynEJOj0t2O2EHCK6vi0cDM1dMrygNKP6x1gNAKSX3HIYEJ8JiN-uDSPXFrgKBDqJR1kN60ngPVkxZwu-f_xBBCHUbxWQBao_gvdcxDY3xK4QX9xOP9k9CooJlciYiA2Yj_OMVRNgofszL7dejtB_XbKJM676jbbmmfUWl0jbZCzjtW0B9dy3RJcTJ9o5Vh_FfHze__uNICEggp_BWuPuO5jz_ccoPXLAq9CZhzf-EYWKWv6qCrSC9X09TiaMdTn9HVCNPr6kodr3ScSUF4PsCqV5GD780McISq_0uDdPwijliqe-sGFB8hP8wvWQrKw.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-26T14:38:32+00:00"
     },
@@ -178,7 +321,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B07X56864J?tag=amzodealz-21",
       "newPrice": 290,
-      "image": "https://cdn4.telesco.pe/file/oLbllVRH2UHBHz0MLeWdWf19eOXur_-zRbEAZJDN1ES7aYV07nUSXn6zm9MrSy-waHRYwt85WRrUi_yS4Q4QYDRTMB6JvKU0YFq0PTGjZz_jDvSLDTZ77r8sWGPhkj_Hu0pfn8H-fteYsBZ7k_AC2e-8bxhuzgAy_4I75w6munqhsJVDRahBod_WvOSfyr7L1B1-brfA3TjiSvGh_ra1GQE5GstMMXORJ0_xM6OoprTbQJhcfbbeJafT6vA1SljO4SXHPXuKCI_oQgyEq8LH5GX0GvVgweHcWBgcbYcQMyhN6v_LWH54TrEJSUQy1vm6yV-Ic6WLZGkzuf-E64-xpw.jpg",
+      "image": "https://cdn4.telesco.pe/file/FNycIniPSWVdlbB2X53zsrPEa9iWpIzVeId4wIING0Op5ShmkakPP1sndYzvjAznQcN1VWz9SQrxrBlqSnsCimhAZz-AdXCYGexpt6bxUKZnedN_V1UXNT5f7NUASItEwWGMYMh_KnaBKbgZzu0bCEdVqewcURHdPB-4ZbcRY6632Gbya0_gF3EP-ABqICPOJMzYJNVjwR4iX_5t11suM02jM_tivlJaqJ9sZ7R1GshwnMEUh2BnnRCgoToNh191gd0aGxy0qn--RjYJTSfg4mUWHX3tQN6njyknN-gX3_z8rqv1Kn6XzREZ9SXeWXN6QXEmsL-PqGnTGpKYdeIBPQ.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-26T14:38:26+00:00"
     },
@@ -188,7 +331,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0DSLL7LZK?tag=amzodealz-21",
       "newPrice": 439,
-      "image": "https://cdn4.telesco.pe/file/dEx-htbXQ0546qIRY7gonj8bGxUyUCU9cSY_GxL7Y1ud00uyjwsJ4p9bp0llL-LmSQX28Xts_MzEn1haiZVmG6nnH0t4BiFvt2-dajOq8tu_XbMH8wG2EszrLgcOmDX2K2eEAyuLy5aYfb4WmiqaMt68EWeplMkxeXnu8aDaC_MhgFTUn-tGR9XA-LDvQ3bVTuRUNT85kEPjb2H6QY7FgxJEm__GxpnYJ8UmcBy4Y9_8uv9Bvqm4gMdU2FBIl5z-_Py0dUC7H3blu4juA5M_EHMP6_kywT4pUKoF6cp-7nM80Uu1jEMSlKcT4tC589rYkyiQ26D5kEfW8-DADWvvMw.jpg",
+      "image": "https://cdn4.telesco.pe/file/u9SoqgzwNQbW7WKVHIjsP5AFRiPuY8hPlX32q7Za3jYZZSFZccuvsVxkUg55_hCxWvc05k8e5gwhMONm0-9Ahjz9sDhIHCLEq6y-jNNBWePSUAa3SUtDeQPxWWeyeW3RoRLVAmGt8JQrviqlZuZi6-mky_XrVutVZSGOPBLFo_RLXvh7M0B4ahyYaMeH1RGLAZRvEpQwj1Bxf4VD8ZBRdQW6BCm9TqXbdXpleB--H9SbcbrrHz5z0tD0uLIPcbPvB7oo44scIJKLueyIakjx7crgoVVBHnRocgJ4i8tXMg9ux2HZ4aXTv4cfrS9QAohD8dQAvWBciuEXeGzR3XxMUg.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-26T14:38:22+00:00"
     },
