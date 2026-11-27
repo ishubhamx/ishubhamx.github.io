@@ -154,12 +154,123 @@
   ],
   "deals": [
     {
+      "id": "tg-29",
+      "name": "SIMPARTE Smart Slim Storage Air-Tight & Leak Resistant Plastic Round Modular Container for Juice, Snacks, Spices, Dry Fr",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0DGLP3FCN?tag=amzodealz-21",
+      "newPrice": 169,
+      "image": "https://cdn4.telesco.pe/file/P_bJfnSDxfJkUsiFWcFBisuOyiafIoPmHePOAubXtORpdagYBU5gvHlgoYMfL6CV_qEmelWtyjHg9TSVzgN4h224BNBaqFLlJgo_-dl9WNf1gJKGmGdj-5KPFFjkBeVfZuhFALII2vLcSeFXeH3iiP7k8RQmvq3kL32xdvw6AlgBa2D4BihRUEiDJsuDm7HPZ-HbN-N7tgX8_-oC-oLLDpQqpwZgKvJFhMW84G776MFGlYSE4lLdNf-_9slkpXniK0xChOWBskcz0cCG4DUDV3cNLKwBPP47YKHRatkLmWT-tzvzGZTn6RgPAXPXuG3vWrcq2Imo_8Qpz91gyKGo3A.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T19:25:05+00:00"
+    },
+    {
+      "id": "tg-28",
+      "name": "Amazon Brand - Symbol Men's Stretchable Regular fit Jogger Pants | Chinos | Casual Trousers",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B09MDM8LZS?tag=amzodealz-21",
+      "newPrice": 339,
+      "image": "https://cdn4.telesco.pe/file/rpOsS1Y1L4Ow28LX_imuoLpjJCdSGi0WWOc22mn61XjWki_bTNTvXc3tfl-UilWeLMIE-9CLjn7sAswuM16bG4Dz79rNkTIn9fzvoBt3PlH5kvrJNfM3Bde9LBjPDVMBlNU-eCtwOkitj8AZdCwSHB4vz3nxdc2ZZDOlveaOgEC_OkvsSsi6z_d-4dyChSU2z8I5I5f7fYzpU5x34lS1Tdctw3LHkL3va1Fl4afdvPyXFJd8Fs0ZA7H5OF3hjYxix2fJE6EM0YN_d3hyqcylzTZHHulv9qZ6Sm9_9jtV4wFrnaeAo-HjCyz0t1TxGhCcEYndR-yvo6LFxkSKMb8pdg.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T19:06:49+00:00"
+    },
+    {
+      "id": "tg-27",
+      "name": "Fort Collins Jackets Start – Men's",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=fort+collins+jacket&rh=n%3A1571271031%2Cn%3A1968024031%2Cn%3A29945464031%2Cn%3A1968088031%2Cn%3A1968091031%2Cp_123%3A484322%7C484399&s=price-asc-rank&i=apparel&btn_type=ss&btn_ref=srctok-7b3a877946479d3d&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T18:57:41+00:00"
+    },
+    {
+      "id": "tg-27-1",
+      "name": "Fort Collins Jackets Start – Women's",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=fort+collins+jacket&rh=n%3A1571271031%2Cn%3A1953602031%2Cp_123%3A484322%7C484399&s=price-asc-rank&i=apparel&btn_type=ss&btn_ref=srctok-0facacf2548748bc&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T18:57:41+00:00"
+    },
+    {
+      "id": "tg-26",
+      "name": "Upto 90% Off On Myx Clothing",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=Amazon+Brand+-+Myx&rh=n%3A1571271031%2Cp_n_pct-off-with-tax%3A27060457031%2Cp_123%3A364964&i=apparel&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T18:57:35+00:00"
+    },
+    {
+      "id": "tg-25",
+      "name": "Upto 68% Off On Lakme Beauty Products",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_123%3A456549%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A59-&i=beauty&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T18:39:20+00:00"
+    },
+    {
+      "id": "tg-24",
+      "name": "Dove Men+Care oil Control Face Moisturizer, 100gm",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0DWXBHNVQ?tag=amzodealz-21",
+      "newPrice": 125,
+      "image": "https://cdn4.telesco.pe/file/TAj_PxDJs498zqvYEuEVZcJca-K7g4TnJp8pKK6Lso2jDRrausqTzn3gL5vK23mVwLCxbXNn2I5P9ZQqxnIqbHI4wuT1TEuPms6KdnIEGRb0e-V5YDeuBrahBrA3XljydYWFL6FcJDlSmMIt0t-YCwqkXGJhz3L626AZ0f-cJHfHg_gAqiTj8FRPieveO8tmq2uELMpFX9jYXu_U4YssUrgbft7OA3Amv2_dz1_U70MS4Y0Vf47bo8QFB-0wzlTeJPzSuYu-6aK_pqU21oxt05RIz2O64lZ3XdQI9OGoyzTPuUX161WQifAI9R_PgD_Fer_8Tk0_Uyny2iKRtl0-uA.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T18:38:45+00:00"
+    },
+    {
+      "id": "tg-23",
+      "name": "Upto 80% Off On Beardo Perfume",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=Beardo&rh=n%3A1355016031%2Cp_123%3A313726%2Cp_n_pct-off-with-tax%3A75-%2Cp_C%3A27060457031%2Cp_6%3AA15APWRK6P7LBV&i=beauty&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T18:38:09+00:00"
+    },
+    {
+      "id": "tg-22",
+      "name": "Flat 70-80% Off On Puma Shoes – Men's",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=puma&i=shoes&rh=n%3A1571283031%2Cn%3A1983396031%2Cn%3A1983518031%2Cp_123%3A256097%2Cp_6%3AA1WYWER0W24N8S%257CA3L1OUG0B9LM6T%2Cp_n_pct-off-with-tax%3A69-&s=price-asc-rank&ds=v1%3AlSX0h4tJwaxhf4xdFaF0BBDj3Dc3Gi%2BSJilkRLbVwJM&btn_ref=srctok-4e4d65cd60286dea&btn_type=ss&rnid=1983396031&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T18:38:04+00:00"
+    },
+    {
+      "id": "tg-22-1",
+      "name": "Flat 70-80% Off On Puma Shoes – Women's",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=puma&i=shoes&rh=n%3A1571283031%2Cn%3A1983396031%2Cn%3A1983578031%2Cp_123%3A256097%2Cp_6%3AA1WYWER0W24N8S%257CA3L1OUG0B9LM6T%2Cp_n_pct-off-with-tax%3A69-&s=price-asc-rank&btn_ref=srctok-46bd90d53083b6e0&btn_type=ss&rnid=1983396031&ds=v1%3Aj9SsPOUoSHVZFKfEAZpQLXqwkaq%2BxbcznElhZEuWAyA&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T18:38:04+00:00"
+    },
+    {
+      "id": "tg-21",
+      "name": "Upto 90% Off On Symbol Clothing – Women's",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=Symbol&rh=n%3A1571271031%2Cn%3A1953602031%2Cp_123%3A179318%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A79-&i=apparel&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T18:37:59+00:00"
+    },
+    {
+      "id": "tg-21-1",
+      "name": "Upto 90% Off On Symbol Clothing – Men's",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=Symbol&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_123%3A179318%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A79-&i=apparel&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-27T18:37:59+00:00"
+    },
+    {
       "id": "tg-20",
       "name": "Beardo SPF 50 PA+++ Body Lotion 250 ml",
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B09MJ4L2MM?tag=amzodealz-21",
       "newPrice": 120,
-      "image": "https://cdn4.telesco.pe/file/ToCcBMoKl1AN2_SMJ4wpwEWUxBEi9RV09tvhNjVTOdUBSfR9dj_fdg5Wy93QCd5JAx0jVPhM99AfCpYotWkTzZf8HgF5jqIOjAIgAihu4XZiNfoGmZuYf0gV8n113nNY1TM8bP7Opep2EbMbtfUaXkkMigmMCYH6ksMnM1RdOKUSrgirtF_EZtc_uXcuJd0YS-rMs6o2doNp935hRgXNXDniKNyQNQni3U9tTWZmwBtCaQBCFp8v_8VRZzFzyH5m-gRZqrP0cGWshhpSYfC8hfjPxHAP0445JdJWk0WItxuvDdCPhCvHxXyvKHpTOhMwC-M-118oNtNgh92ivGvWQg.jpg",
+      "image": "https://cdn4.telesco.pe/file/KP4hHIePR6sP6z-7ftGFhtVlgqiwhhSe6VLbbZ-IozB-nwgmpKxVlOF0rN2dhvQ0guFtudJd2IL4Q8kxXXL2kD1WfZmC2lC_w_OMuXzjbEqYr2NDvgVMSzSI83NAHTOhgzsRrmVnQ_IT4r9VgbA8_y9lToZk5uU-q2OpnP8NBseG_WBR4XShWM7xNNylIcMeWYi7v5yckkxn08mgyMHxiQc4ePrOVXGOAArVu349AuVJHijdUhjiZJU6r9LaI4dZ-_GSbdwpLkzWZI6NEqkDRE03XP2pb8DEPIkT1a-A3KcbCpC770RIIFb49LN2lZmk8zWswcg3P82zjVFqIWFNaA.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-27T18:25:26+00:00"
     },
@@ -169,7 +280,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0DY4JCZ46?tag=amzodealz-21",
       "newPrice": 985,
-      "image": "https://cdn4.telesco.pe/file/tCQeabseCmjHAuee_p15sGaxbjfJq0QNhFAYywxY1YqNhxaXwzCqk0wyubL87h2R6-RrIVzJOwp7sMfjEixD9wT3pB_nlStYXhZVO1uwI34UxveSnvvZr4Sj6T0u8WHs0eBqWRpZWEAHy8nnBYCU9zvouww6Xsw9pPm_qwDMYdkEnDJy2Z3mSRV-gik7cm9KEh1feAyZXPRM4c984VwWuRPPgtnRIItr40N1P76x8dB3QTcpdF7GJB_ExOGG9UAvSfDpt6IzeYSgGw86XdKO2EtkXCQdHcLx1v9aW2D3KnTE_FoPeUAF3HpRa3L6kRbbCM9LNaxbEVz0NhTwoDY_Mw.jpg",
+      "image": "https://cdn4.telesco.pe/file/nR_xJzqRHdu96yKQcTFYPP-f8O85n0rdHiOYr4BDeMinZ0baG3t5KD3Iz1ISdjJWvxwi9l0m0ED-9LVA4LdZk9GJn2Co5H7RTpnRCKmfj97DzI5Ex4LK60Wj98UBzskwZ8cVQC2MFwuk0oEhjoBuwbLkjxsSC-3Y6FSJI5R9LeK9Fg0PerpjV4acLg4jFaudl-BY5YDZ8Qd7gOAnehtccya7M7rOovBOa3FTpWorB8NZcxlFHr1foCMokmG89UNRGELMiK5uKjgoIzq3nr2D1MYSWnzkbFGcDmTB1GPMS0ZyvNic9BlakNp7n7Wi0j0sSKU7GttzvDpNYg28MtTnoQ.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-27T18:00:43+00:00"
     },
@@ -196,7 +307,7 @@
       "name": "Loot 1819",
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0D181N2XW?tag=amzodealz-21",
-      "image": "https://cdn4.telesco.pe/file/f1TgIS9eZZRzeZKoE5j1rhx9UhuAL4fk2nYSNDClTtkh0Oh3fgjOQfG4wuG_qpecHHhTZoi6uKBpx_pSD_EsRjSNIttr9vYHaU8oVQwYrZFtBbKpuPUyfur8_1hAm1hqfxRQeDuv5dm0FmVQfrIKym93Zi53-ygi5ovVgQNQ71TFfuulWPOJVeXYUn1ez0hFF6aoeCaXVyiFuUCD0an1QHE5kCQKBjAM1X-ZsZJxh2hiwBOQspf6cNSQ_O-h7UPOzHjuSod4YerncWym2ppAhYGY-olzPMZwBM5re32xfrX_5CA92fvBMJsSNWPEwOFWYxsA-sztrfl9xqLb_S9ePQ.jpg",
+      "image": "https://cdn4.telesco.pe/file/l-GGebmg83sVn0-fDJco_ANhGM5sFwNKLCK_8J52Nwn4VW21ppf0UU3QqQhaqLylH6zB7Fof1ikLaWeA9hcV1tCXwFTCDai3P-mUxAqwGUyqBh_K2I_XSS2KWQ2-5KJGhm84v_levdbbtRHFFNkjr-iH1ROG4fKsm8x4fN96EaIzlnzTAQ_89_AmUEP7YuhMzgNxD_qOBKVdXwnm7FZLhPGHhxZ9f-bogTNwRarQ3DbhtA5YNaqZkId1Fi2aEHQApYKFb7A7EnelraTc3tkc1m9cEl2-uVSIIV0ON5n1UpFlb-AtLL-VsvKMuqYBtH_Fka5kekgSiJt9ZPonxjayZw.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-27T16:18:12+00:00"
     },
@@ -206,7 +317,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0DR9FFL8G?tag=amzodealz-21",
       "newPrice": 703,
-      "image": "https://cdn4.telesco.pe/file/KjLBySnsKvRgnivSkGY5VR97G5eTIVlzfhJFQV6L0RRPZVTnWhfN3uNFtN_V8TQqPEnIGzTxxVSlcgNrLsZQIImTRyyYEq7BE8fOBvkJSxJJ59lxYY-v7Rkf-BPgAv0r1RqSBz0uN9GHkf_6d0BaB4_Mwi8MnmGRTZ7DsvwRnkfqK7U_laqM6ihmpuLBZIom8zpRkgCJMYN3h4hdHpwhx63rHYB_UhX7P9StWutKbQJN0YSfYho0yMukFtfc0f1bvnzigeSJUTrDl6WrKL0rBrEaWKrUxFk6zd9A1mtzKue-B6bqvUBIoreKHDWnFmB6aU1r0WUwOAjFvR-7HjPoAg.jpg",
+      "image": "https://cdn4.telesco.pe/file/L7oKm_iYz1Mf-XMaKB7uyTxcW1ud2dkqASr3xHvCWqbYHCFDhuamMHHuE0nA8_C76WH3t9-vHbWc-VZMn2fEurNmXEejS2qT1Y25aRn3wuIJC806OgxMLTZ2ArK9X8fBSxzyrZU5i_hx2C_h16GE2P5tCtFKMZK0sK6s_cf2eil6aULwABc5abR0D8RX3Dd3KuKyNJIW99_TrC4bfaZnQo6XNIhN8pPitEDjpOz7OSfwUzJ2PqsNFfI22E_4EmqlM-B7Ydg2xYYW2tq4FdNzQPDnI_8zCok6uW1ptzyiJ46JiAXG-zgiVEq3hmsfUJJyp-WkuUCUSrxErRtL-nyyFg.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-27T15:10:13+00:00"
     },
@@ -216,7 +327,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0C6XT96MC?tag=amzodealz-21",
       "newPrice": 247,
-      "image": "https://cdn4.telesco.pe/file/rKIX98hh29-veNeU9bFZAsCrLO8HqEhSNDsBxdqYYZTF39SksYHWFLhTPf1fTpn0qTvJKzvzHAUpNZW_8bgUQGe48Rq6a-w18ulI-I9emgEGUzzKgmQlICzVtW3e-52eCfTsPlQ_jTsKCljN4OZkj4iTVCk8GCeht2JO-mAdjxu0nRza3o0p4Ov5OC6_vLazJpdun4OHtVpZmOIjrw7ksT6uTs0oPUYAjxciwEwpuIhgqU1FGjRm_xc2YGqVL7QPAHFSF4LT1RqJpN0cD4Aw-EmttBT2m-diY2_Bw9sF17Z4GLprwNgD_0zmGxOM5XOf-VxqCA4pKd0i142CtZMyeg.jpg",
+      "image": "https://cdn4.telesco.pe/file/Zcx4YJns86v7PRBj2iztg1G7Eh1EQmFdZbFfIH1VI5qA0qAmprIsrrBc2uCEQBO-u-KpYzZ8jxds03Mc6xRRvivzxvslUJ63q6x7Wf_tjvTqjSRa2C6AU5YR9fLqzoSs7G_7WAO_3ycT-Ff7pLhFO1CHJ6OkqlgBKtK_EbLN_hTFtp5CoFZljC-BDbtJwptjiyjEQrxKRMlDIySAYTZTB0cA0QVRIUeiBqkFqL_cH81qC2A0u0DuCkdVNSeNvh6rKn62qCvINhsgGFvzOBlKu8UmbA1XJJMvtE4Tfdk1B72gdhTHV0CdwX6r8AOHTRIIne7cI762LHfsU3nF8dHddQ.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-27T14:48:55+00:00"
     },
@@ -244,7 +355,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0G7ZN1868?tag=amzodealz-21",
       "newPrice": 435,
-      "image": "https://cdn4.telesco.pe/file/TnK0k3yEgYw5klDEWCQxnHTRI58foB12z_Sd2sal0bKVI051yhQPF3-r0Nuys2VlPbrUi8pMF0MUH889uzfdmUZo2tlAUSeYnkWdKC_21bE7LoBcDpeu3eSGtoJd2g8Tk_HOscga8npnx0P_2hXpnwrFsC3dJzCYGhcq0wZkBL1EMXMNpdhNP5NoA5_M7MnZDKRlssslJBYDTVq-OOBrrOUB1jv89et-1bBGJjEnARKJihH_fCaLgtI_ECvsNfQnklnCI8juqjCAKlcEJ0y2DJVFLPY12qxwmTpB378PlT5I86mv4RJJ8C2mD1R9rmLX1Qh1yXcPfWv8mi-b0DbCsA.jpg",
+      "image": "https://cdn4.telesco.pe/file/ekVPdWv2Y7PojYpLdIn_Wk_0p2lKDuFdlPtttRKb5_nJj-VEbMmCNgzi7ToE2_Sbfp9rGdNGrPizf8bmeQ4wmMMKhZoGHM78GZWGaCysMc8GqN1YrH7IBZZlGqAVfl5gUpIa7yO24cweSvdmVEJ_VMgutnxkK7ilmAOCRfkftoRNXrOSp3X5nZ6EfzkuiKEs-pKPn412j8Rr_aPdPfIqJvUSTOlUwPsiPsFgXCVIsniw58F0qu9t7AIxvuyM9IoycfB0oxGwtx3o8fCDhenLMQE-xyI04EWW7qL-g_SK12G7e4LYysfysSNr0IXEUkiSFy8t64-e_VSATdB_oe4Xhw.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-27T14:20:46+00:00"
     },
@@ -254,7 +365,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0G4N8ZPZX?tag=amzodealz-21",
       "newPrice": 399,
-      "image": "https://cdn4.telesco.pe/file/lnLYD2nyZgtDCx6o2IpGykYb8jAQd_YAL6684omw3m6zDAtgkGVL0X4zZJlxgG1oiLzpBI2royGA4MwNzkRs2-V5_YUxWwRJUrYuIOpiGYLx9rdq0K0NVy_5uxQUn67fwof-WZhGcRhaDzrlsztEI83Qte4S2DJ6awCtE1XA1atf4XGXlulgaOmmbT3mChofP2YIEigBE0frx1k0bLLDmd6lZXICHfzOCn5pY_xjp9tNpfMDmErxd7DzkNFU7HetZOrhlKCerRsd47VYdj7okNHPXHcs1PQ5DTkS0DjTjLqiiNMUt_sQ7EHRs3Jhwca-cJfO7AVxipkdYyelkfzUQw.jpg",
+      "image": "https://cdn4.telesco.pe/file/D9hUF8YYswblUcKM-ivtYgnZ7-yTsWBJukXDZjBzAE-DkiBrPbmdHY2YfCRH09byA9XRVfp45mFg67hHkgLaFMG75ERInrmt8BkjMybRMnQ2OpNyV9c65hxjr1q2e7KvzyJDlCGG4Z_vC_9bBqdKZxyl0n88s1wDtzgo2aMiFaDNs1Md6wTo0kvpq99C41KigCZaTCpbGDNmkGVBjf0v2Y4vcQ4CDkUlT58RMUvJ6klb_wU0V8Qmr1hVRdBndpXGpCLrOjeaW8vJr1y4VRJ4ve3lIAiNNzItLT_6WcDc07aZEHR4JD-4lraMX5YguQy4bKmBdfu19leQAtZUSAeptA.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-27T13:46:01+00:00"
     },
@@ -264,7 +375,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0HMHJPJ2Z?tag=amzodealz-21",
       "newPrice": 29,
-      "image": "https://cdn4.telesco.pe/file/QoOin-an3oVELRAbqMRs5-lP4A6JDZYMKag86j2LtT0SJy6H3aWe_4wOGOI09iVwyPVykL5ZVkrMvl1799UlzeVAhSsobQiZEdMOl6BYgn5264J6h3HrDwq9SCP3PP194QvoZyqmOXZ1VgrKpE8ECHhxGgcMhh7sJFHX4feoIHcDxCDVK6J5P0gOF4McBm04wAcrS0nt7lYzsRR01fl4F1iv-ozmlYLvgSysaIPEDyJ4tTzQ6KZAHZ9klAHpXnqTaRuNptjJVnMq9v76qkkHFd5Av45yjeAs1vB1BYi1EdcRpwUlCz1SD64QsfOhxFOG_6cyYOuK_xB-xxTnv75xNA.jpg",
+      "image": "https://cdn4.telesco.pe/file/IZCU4Ah55Vd5hJ6BZU-M_vJpnys_2BCh9eaMPZqKCFk1-bBKStzUMTRW2xDApYG0yL3I_V2dQPKu7lAXrcaabncy2CBugFhd6Vkn0-tVwPAxu-DKO0C0oAtS1M13ZVFasKDc2cqpn35b36YzT1FLwtEkIKOKLMLg4R7_Pf4xhJ1LiiZ-8IiIUO6S12WjL1XofKUu3AvR63O7Y9WjbWuwv-v11RqjoDKaZxUttWAUPd2EmKBuRjHsvR5H_x9trakjN7Ppecl9VvnvZnGDD12jiCf7XJWNtyiuCLhL0CIteGZzas2Wj1iF9mO9CiHepqIY2WgwCsPbb4VRi_9h00Uejg.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-27T13:09:15+00:00"
     },
@@ -324,26 +435,6 @@
       "image": "https://cdn4.telesco.pe/file/FNycIniPSWVdlbB2X53zsrPEa9iWpIzVeId4wIING0Op5ShmkakPP1sndYzvjAznQcN1VWz9SQrxrBlqSnsCimhAZz-AdXCYGexpt6bxUKZnedN_V1UXNT5f7NUASItEwWGMYMh_KnaBKbgZzu0bCEdVqewcURHdPB-4ZbcRY6632Gbya0_gF3EP-ABqICPOJMzYJNVjwR4iX_5t11suM02jM_tivlJaqJ9sZ7R1GshwnMEUh2BnnRCgoToNh191gd0aGxy0qn--RjYJTSfg4mUWHX3tQN6njyknN-gX3_z8rqv1Kn6XzREZ9SXeWXN6QXEmsL-PqGnTGpKYdeIBPQ.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-26T14:38:26+00:00"
-    },
-    {
-      "id": "tg-3",
-      "name": "Indus Route by Pantaloons Mens Waistcoat",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/dp/B0DSLL7LZK?tag=amzodealz-21",
-      "newPrice": 439,
-      "image": "https://cdn4.telesco.pe/file/u9SoqgzwNQbW7WKVHIjsP5AFRiPuY8hPlX32q7Za3jYZZSFZccuvsVxkUg55_hCxWvc05k8e5gwhMONm0-9Ahjz9sDhIHCLEq6y-jNNBWePSUAa3SUtDeQPxWWeyeW3RoRLVAmGt8JQrviqlZuZi6-mky_XrVutVZSGOPBLFo_RLXvh7M0B4ahyYaMeH1RGLAZRvEpQwj1Bxf4VD8ZBRdQW6BCm9TqXbdXpleB--H9SbcbrrHz5z0tD0uLIPcbPvB7oo44scIJKLueyIakjx7crgoVVBHnRocgJ4i8tXMg9ux2HZ4aXTv4cfrS9QAohD8dQAvWBciuEXeGzR3XxMUg.jpg",
-      "color": "#232F3E",
-      "postedAt": "2026-11-26T14:38:22+00:00"
-    },
-    {
-      "id": "tg-2",
-      "name": "HRX Parabola 3-Piece Luggage Set",
-      "store": "Amazon",
-      "url": "https://amzn.to/4jeSkHU",
-      "newPrice": 3999,
-      "image": "",
-      "color": "#232F3E",
-      "postedAt": "2026-11-25T15:59:43+00:00"
     },
     {
       "id": "buds",
@@ -406,6 +497,167 @@
       "buttonText": "Read the policy",
       "url": "https://ishubhamx.github.io/amzo/privacy.html",
       "color": "#1971C2"
+    }
+  ],
+  "modes": [
+    {
+      "id": "genz",
+      "name": "Gen Z drip",
+      "emoji": "🔥",
+      "color": "#7048E8",
+      "tagline": "Fits, kicks and tech that slap, minus the price tag",
+      "keywords": [
+        "sneaker",
+        "shoe",
+        "t-shirt",
+        "tshirt",
+        "oversized",
+        "hoodie",
+        "sweatshirt",
+        "jeans",
+        "cargo",
+        "jacket",
+        "brief",
+        "trunk",
+        "earbud",
+        "airdopes",
+        "headphone",
+        "neckband",
+        "smartwatch",
+        "sunglass",
+        "backpack",
+        "perfume",
+        "lipstick",
+        "serum",
+        "sunscreen",
+        "face wash",
+        "trimmer",
+        "gaming",
+        "keyboard",
+        "phone",
+        "myntra",
+        "bewakoof"
+      ],
+      "searches": [
+        "Oversized t-shirt",
+        "Sneakers",
+        "Cargo pants",
+        "Wireless earbuds",
+        "Smartwatch",
+        "Sunscreen"
+      ]
+    },
+    {
+      "id": "parents",
+      "name": "Parents",
+      "emoji": "🧸",
+      "color": "#E8590C",
+      "tagline": "Toys, school stuff and baby must-haves, sorted",
+      "keywords": [
+        "kid",
+        "baby",
+        "toddler",
+        "infant",
+        "toy",
+        "lego",
+        "diaper",
+        "pampers",
+        "huggies",
+        "school",
+        "crayon",
+        "stroller",
+        "feeding",
+        "boys",
+        "girls",
+        "cerelac",
+        "tiffin",
+        "water bottle"
+      ],
+      "searches": [
+        "Kids toys",
+        "Baby diapers",
+        "School bag",
+        "Kids shoes",
+        "Lunch box",
+        "Story books"
+      ]
+    },
+    {
+      "id": "married",
+      "name": "Married life",
+      "emoji": "🏡",
+      "color": "#C2255C",
+      "tagline": "Kitchen, home and everything for two",
+      "keywords": [
+        "kitchen",
+        "cookware",
+        "mixer",
+        "grinder",
+        "pressure cooker",
+        "air fryer",
+        "induction",
+        "microwave",
+        "fridge",
+        "refrigerator",
+        "washing machine",
+        "bedsheet",
+        "mattress",
+        "sofa",
+        "curtain",
+        "dinner set",
+        "decor",
+        "vacuum",
+        "ceiling fan",
+        "water purifier",
+        "storage",
+        "waistcoat",
+        "kurta",
+        "saree",
+        "lehenga",
+        "sherwani"
+      ],
+      "searches": [
+        "Air fryer",
+        "Cookware set",
+        "King size bedsheet",
+        "Dinner set",
+        "Wall decor",
+        "Water purifier"
+      ]
+    },
+    {
+      "id": "honeymoon",
+      "name": "Honeymoon",
+      "emoji": "🏝️",
+      "color": "#0C8599",
+      "tagline": "Luggage, beachwear and travel essentials for the trip",
+      "keywords": [
+        "luggage",
+        "trolley",
+        "suitcase",
+        "travel",
+        "duffel",
+        "sunglass",
+        "swimwear",
+        "beach",
+        "camera",
+        "gopro",
+        "power bank",
+        "perfume",
+        "couple",
+        "dress",
+        "makeup",
+        "sunscreen",
+        "neck pillow"
+      ],
+      "searches": [
+        "Trolley bag set",
+        "Swimwear",
+        "Sunglasses",
+        "Instant camera",
+        "Couple watch",
+        "Travel pouch"
+      ]
     }
   ]
 }
