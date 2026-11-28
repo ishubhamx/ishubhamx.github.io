@@ -154,12 +154,147 @@
   ],
   "deals": [
     {
+      "id": "tg-62",
+      "name": "PHILIPS 2.8W LED Frosted Candle Bulb | Cool White 6500K | E27 Base | Energy Efficient Decorative LED Light | Long Life &",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0GHP9R3C9?tag=amzodealz-21",
+      "newPrice": 359,
+      "image": "https://cdn4.telesco.pe/file/au2gD0vAySA3YASHMdiUsaY5YPOnt_bVrvkce5I2DbG5jfytY0am8hs5_QxPext8Wax8wyvPqKem-wsEJLaOQR0MEiGYo2D-TdMvkY1N7nxdY_4wkjZcvPSDEFuqfu0h1IZ3Tx4pBaNl6viurtzx576TyK_lntOQL9n5wjyP7GoL6R9GM32ZnDtBU7p17vdlg0OLsVOqhr6gZrK0rg9M9k57CVQq9sa7cS_CG-Fjg4NGinFVZALDzbmSggTCkSbAf-F2vMqGUxKLC8uL1mhfUE7JC7ZlyNunD0AF8yk5pb11JGL2_L_5Xoo0edOyq6MI6C72T0beWlYRlWJn4RhS6A.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T17:05:18+00:00"
+    },
+    {
+      "id": "tg-61",
+      "name": "Livpure Eterna 90 CM Chimney",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0DTK5515R?tag=amzodealz-21",
+      "newPrice": 8990,
+      "image": "https://cdn4.telesco.pe/file/c7vir1Jl4IJCFohQ21_MDu-iYhR8nl_R0H5_jy9WQ1mgaQp6rv4OD5dixVD-K_n_5bSgcu_SktAk5E5YVbF_vkCGmvam79XL-KDPZVQzFGaNtrnnl_vlbkCy2scOlKoYz0vaVDhtVDO9eQNnlhHn0DxlJYG4IzbHl5v1B07OyTT4879_1iHvgUZVX8CqRiqjl_1Eaoh2Qi6phY1uORS2jD-CQXgol1BcMAjsAkJMnMyMbOHbl2Wf1BTGNrU1QKIM4FkPjMIDafhOVaiTPCwVBUcviM5SjyZFT9G7nZ3iT__Emq3WpHR66EMCcv_EY5goesFrlqwSfOBJGY2CqnmaMQ.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T16:15:14+00:00"
+    },
+    {
+      "id": "tg-60",
+      "name": "GRAB : Mosscare Premium Makeup Cleanser, 50 ml",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=Makeup+Cleanser&rh=p_6%3AA2HUI9JPUBLUI8&hidden-keywords=B07K7CFTDJ&rnid=1318474031&ds=v1%3Ae%2BBmMei1CxfOdfjTon11S1g2%2B%2B7PjCdvlpgViBuFpQo&btn_type=ss&btn_ref=srctok-4c7bc2aff5c35833&tag=amzodealz-21",
+      "newPrice": 249,
+      "oldPrice": 349,
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T15:41:39+00:00"
+    },
+    {
+      "id": "tg-59",
+      "name": "Black Friday Price Drop : CP Plus 3MP Wi-Fi Camera With Motion Detection & Two-Way Talk  + Coupon",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0FK4RND9C?tag=amzodealz-21",
+      "newPrice": 2521,
+      "image": "https://cdn4.telesco.pe/file/Z1RJkhYN98ajzaS9DPy5nj2-2bk3M2CGRG_JLOZ_Gdy84Fbc59oyX-_9-Z7iSre_vKR8Sih_nzUjdNsvCkZW97jw7kYfegB-IpJfMwCU68MzIDppovyXviC26QeF4-KHs0GRz2y8lTBAg4JZs3MJU2lAp1eTzJWAcH1MOd7ghhGGTW_1f7qO4tQc1Rax6ONr25XMl10Lxl8wZTcjBnfZTUB3KcJ1j2iKI4iqQM-CILLW41fFvDc1R1SamzboEjPnuSdkIgEQa9vPxXXYSe0WUS_NhBmXSR8qiuu_OkQL0R5jt5pU7ogkByhlhGdnmOLj356kEtVwPz7oT5VDsYl0bg.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T15:41:34+00:00"
+    },
+    {
+      "id": "tg-58",
+      "name": "Boroplus Gentle Baby Shampoo (200 ml)",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0H1M1R263?tag=amzodealz-21",
+      "newPrice": 85,
+      "image": "https://cdn4.telesco.pe/file/DtSxHY3Bo88pjgF4rc9LVcEIIo8bCBmzsE8OeaN5p92MGITeLO2YxgCRyJilbABwgPQ52Ov6Thx8JTvLPfZcnqqLXJxoEAbdZZzvJ024dbzEhdq3_A3QlEC5DT6qo2fhz8P5S-3qcdssG0ViU0dpoZJh5ZvG2nWYrS8sQS0Ct9v3KUHsHVknoQSik8fwtUgikhcl8pKrCzLpsb3QwgIDGHnBwehXz_pPGnR63uw0S6YkWLujLCMfD8uncxbFUWutvS60Pw38IxGJK3pkS6l0l3gF1dNA8uhbnT14F4JfUU3bEz6HDlwX0GkWqUTCDJy6dsY-9525ZFGF2L1nv1q6WA.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T15:13:12+00:00"
+    },
+    {
+      "id": "tg-57",
+      "name": "Apply Coupon On Parachute Beauty Products",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_89%3AParachute%2BAdvansed%2Cp_n_deal_type%3A210770212031%2Cp_6%3AA15APWRK6P7LBV&i=beauty&btn_type=ss&btn_ref=srctok-19eaf6965683b5db&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T14:45:31+00:00"
+    },
+    {
+      "id": "tg-56",
+      "name": "Himalaya Baby Diaper (XS 180)",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0H6BNSVRK?tag=amzodealz-21",
+      "newPrice": 1075,
+      "image": "https://cdn4.telesco.pe/file/LnROp4cuw1X_8b_XNBSSjeBN7kmk3tuAgAA5UsdrqxtxKmGM8oZQuKjKmqRWeyACrcVx5Z_NnneBotoauP64xA06uyqQLelKunOgAepnvuPOAyaxtQLlQFNxbJI1EIzqXvJ6MLpPHH_1Vjgp4A69iIruAxr5lN1oKq_6AG0I3iiW_w3EgQwXXXPPNzv2pDeEiM94ClC-ytIt-9yQ6F8sCldUoI41b0ky6TYaLjsmU72rZrF_4xCgYZq66RtGYT7xxtVEdJLt26fUwyozKX7bHyrK6jP9Q3VsUWUvQq9hlhxEZbPnNneiknSblymSKqS-ZTCKqiEeSKv-bp07RCzLBg.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T14:04:39+00:00"
+    },
+    {
+      "id": "tg-55",
+      "name": "Philips 30W LED Light Bulb",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B07P2J21V5?tag=amzodealz-21",
+      "newPrice": 174,
+      "image": "https://cdn4.telesco.pe/file/te5mmD9zTPfL6dlDJIBiGjJ3EhNCLJy_mWDMss2aqJo81b6awmhV9KRCaBFN2DPaVLlw43yRYvF0DDx9E5reSLV3OsWX0p0taPpLreK5dGsn3kV3fAPbSnj_wmkSGCWrGAuXlYitbvnTdi884J4hR2dQC6EUEazLUS5Jj1u3EjTSfX71GtEpeUGnbkEX8YPpJ7scZP7vufzKdMfb3rsQASqJi2fvFAVbJmibfFHlsbSxK4IcbHV446Xk-PkCGEMtDbra6BksQHgNF0fEXGJPKf554dRuwPnwuPYQ9H3GHJNOtSpIhBWO7a36at4xRHunhH3rUu2Hsb5Ggk25YJuT_A.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T13:32:52+00:00"
+    },
+    {
+      "id": "tg-54",
+      "name": "Loot : Upto 82% Off On Kratos Tripods, Selfie Sticks & Mics",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?rh=p_78%3AB0GKY7TWXJ%257CB0GKYDX2MN%257CB0GG4FRZZZ%257CB0FWQBTQ52%257CB0F48VP7LN%257CB0GKXZQVV3%257CB0GKY568NC%257CB0FWQT2SCG%257CB0FNDKLBPL%257CB0DNN6DNMC&s=exact-aware-popularity-rank&btn_type=ss&btn_ref=srctok-5bde41a308e0b45c&tag=amzodealz-21",
+      "newPrice": 1899,
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T13:29:44+00:00"
+    },
+    {
+      "id": "tg-53",
+      "name": "Upto 60-64% Off On Larah By Borosil Dinner Set",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=Larah+by+Borosil&i=kitchen&rh=n%3A976442031%2Cp_6%3AAXOGFIT0PZZ7G%2Cp_n_pct-off-with-tax%3A27060456031%2Cp_123%3A722642&btn_type=ss&btn_ref=srctok-53be7a9febc862de&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T12:40:05+00:00"
+    },
+    {
+      "id": "tg-52",
+      "name": "GRAB : Kenneth Scott Men's Multi Function Watch With Silicone Strap – Light Blue",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0F8R6DT77?tag=amzodealz-21",
+      "image": "https://cdn4.telesco.pe/file/uP-VAmsYyKCIM6QEtrSRymq6C5VRFr_1heNCx4SK5Tw4UwTf0pQMpGoogTDYc_4KsQWvrCrjH2mU75ucZb43m8W0Xcd-9nJqIiMiYwzU9cJu48a27ICP6mqXKkjkFj0t4t6Pya0mVDEWYcie_uQrWwcuRPLyHBvZuNhQvh2DlHiJTLonLy18k4kroaePCv6JJcJij8_BJTZxWP4QrzeigQ6HwqlfTA6MTAl3z_QEqUiWKaSYlfvbjy3_mCMORm1vF3UYradYSSMREmKb2QuphP_JNNNUmKgLLiCt7zMs5PwJ2hZzm1Xx6yyGriKYcokJIPyu1jtNYae6x-w-F1pt0g.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T11:00:56+00:00"
+    },
+    {
+      "id": "tg-52-1",
+      "name": "GRAB : Kenneth Scott Men's Multi Function Watch With Silicone Strap – White",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/dp/B0F8R5JZXV?tag=amzodealz-21",
+      "image": "https://cdn4.telesco.pe/file/uP-VAmsYyKCIM6QEtrSRymq6C5VRFr_1heNCx4SK5Tw4UwTf0pQMpGoogTDYc_4KsQWvrCrjH2mU75ucZb43m8W0Xcd-9nJqIiMiYwzU9cJu48a27ICP6mqXKkjkFj0t4t6Pya0mVDEWYcie_uQrWwcuRPLyHBvZuNhQvh2DlHiJTLonLy18k4kroaePCv6JJcJij8_BJTZxWP4QrzeigQ6HwqlfTA6MTAl3z_QEqUiWKaSYlfvbjy3_mCMORm1vF3UYradYSSMREmKb2QuphP_JNNNUmKgLLiCt7zMs5PwJ2hZzm1Xx6yyGriKYcokJIPyu1jtNYae6x-w-F1pt0g.jpg",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T11:00:56+00:00"
+    },
+    {
+      "id": "tg-51",
+      "name": "Upto 50% Off On Nike Shoes – Men's",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=nike+shoes&rh=p_6%3AA1WYWER0W24N8S%257CA2O5KR0Y95DC4B%2Cp_n_pct-off-with-tax%3A2665402031%2Cp_123%3A234394%2Cp_n_g-101015233022111%3A207199036031&ds=v1%3AjmR3jRFVVZvROk3ySQvhNkvc6ppOB4s1O0Tzf%2BGYlzA&btn_ref=srctok-44afad0dcc437c64&btn_type=ss&rnid=207199033031&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T10:36:14+00:00"
+    },
+    {
+      "id": "tg-51-1",
+      "name": "Upto 50% Off On Nike Shoes – Women's",
+      "store": "Amazon",
+      "url": "https://www.amazon.in/s?k=nike+shoes&rh=p_6%3AA1WYWER0W24N8S%257CA2O5KR0Y95DC4B%2Cp_n_pct-off-with-tax%3A2665402031%2Cp_123%3A234394%2Cp_n_g-101015233022111%3A207199034031&ds=v1%3A4EO4AnA9w5v0LWXa3a1itGab%2BX%2F9aDZMgucEYRGORdw&btn_ref=srctok-05bf4494937d6da1&btn_type=ss&rnid=207199033031&tag=amzodealz-21",
+      "image": "",
+      "color": "#232F3E",
+      "postedAt": "2026-11-28T10:36:14+00:00"
+    },
+    {
       "id": "tg-50",
       "name": "PASEO Elegant Premium Kitchen Roll | 100% Virgin Pulp, OBA Free & Food Safe | Ultra Soft, Thick & Highly Absorbent Paper",
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B01CFS5U5O?tag=amzodealz-21",
       "newPrice": 100,
-      "image": "https://cdn4.telesco.pe/file/N1Woubr7jUZSohITszt8_eHE1I8eCYq9FPIkZq6l4rxZLnpWpVM0mbkQRhMUUupSxI9_rZqkNV3pWgNIehreJhgVGKGDc8f3Cr-uhc2Ywz_Sv35vOZ6g68CBgMNV-t8M7FwxfPJ6S87BvW0H0_AkHX7u_AmVlYQinbRMpCWLoFM6Z6lIqtqVtr1L-EwuC8WwXhiCnvaL_45yHEm8JFRznuItiq50d1P59gggCZeUWR8CahAqSJrV7I_dz4DoYVbOwCzsxEAQZEAIKN1gCUJ-MloNRkFyteCVwP4tyNoKZvJuc1djdwe22eywiZV2LR5JMDjQmW-q3zYPd1R99lOt8w.jpg",
+      "image": "https://cdn4.telesco.pe/file/lUbl3LIRQP_eKiAAGWeyzsmZKzWwD3VUOqpbgkZ0SY6xgupXp4qu8OY6EUwE4XNj1gJbFHniUl0jIqofc5wNyYkQSa8jGZX9WTudfKXbowyBj92GwRH1WXYeYHLT5uCI8QMPpJVy297OWGOKqXUsTfZZ-Wpc6nsOvsfjia8jDxeBDFpjpidHqr5NuJgjWmOw_OvZCzAOLWKRROlWzmSL1aUdAq9N0i8lNvnCzu9qL4mDP2_3ozoAwXj4g-PEWhZeWLqwVnbtzeRgJWy2DFk8COfF6Oey1zssGV-4v2L0btz8cjm1Lyzi0EFnM6__y2g164EMv2vMiJerm3o0jFj1zQ.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-28T09:19:25+00:00"
     },
@@ -169,7 +304,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0DQ7R3YVY?tag=amzodealz-21",
       "newPrice": 1040,
-      "image": "https://cdn4.telesco.pe/file/E0HK9m9Rd6Dc7-4j1_jmO-gjaoRup3uRVE9jOGENEb3_9_XRGfv92e1ld_fGy41PXlg_tOdZBg35W8S3gY1ula11aLjBmRmM1NjOjsHDgGM076Hl3U-rA-3ZUvHIFE5ji_Bt1fvgtZd77GtLersXe1rJUpNKMHQ2t7_P8l61r7fo4leYTdOwBFmTs8emBzxVBbQIR1EJ_Z80ut20c9mSwn1HSOyy6wsh_DwHcamw25UBzXoYA6H1GTmW0vmpsso9Q5ezq6naXhkTDpKCiyiLn_AG49GXD8KG5ZRfPPFZJMJXGxk_pWx4GBsxoxlNvtx2zqOlVgsE-UMnyVgkHo9nfw.jpg",
+      "image": "https://cdn4.telesco.pe/file/jxz3Uu3LmdrgcXfaWM4Iiw0J2GLWWpaHj4ELsrpigg1WhW-RlzhIpxVU_t7uwfcJKNWRBI_gZRAFp9svsuGzrlE6HpfodfMlQaVSczKrDv0iZ4fCCtConoz-tlZsQBgb0SrOnVP7avbTtj28M0yu6_lj42tRP6Rh-z0nllrVJCJZxrI7TtOiW-qmDCSQhlNFvYFXW9R6021Mm8nLDVoYLIgLiUQnlNSyWm9BpKW7eMpOU7OwqQwobdFMkuQKR2URLGptaE2frqJz8w1TylEVGskpBgwDhN6DA_pN2PvqhFdxYdujgxrWdbA6M2F0eQ1owYD9AYYrsfU5CgC7sAaZFg.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-28T08:35:52+00:00"
     },
@@ -178,7 +313,7 @@
       "name": "Loot 561",
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B07SFR68Y3?tag=amzodealz-21",
-      "image": "https://cdn4.telesco.pe/file/INYTPMgQwk240wHI0QBl9_AnszOPhqQ5HLlUHtCBfQkqvFAOauh-ot2eplmR_yIfCU3nzkzvrcZ97Ql7kXa44_D-_pI0f1sETHlnV2ukXDLnulh-bVKyVHd3J1Q3OrO19dE9Dse7msI5-rA-STA5EcigAB5B3uZg73XVdsZnYm2BguLtNn6lQtnu-ByXlN7CTmKVzTkHgeL8M3PC4IM8Jw1xKVdLn4-ETIy7wclWJhKXJu4IUG9BkQju26hXESegXZNaDm_voGvP_8KymGHxChc2avOF8pMBb6yiFohOCNovMphLz4D35pqhjosX-_3_3KcSNGrbyAwhBPQiN9ek0Q.jpg",
+      "image": "https://cdn4.telesco.pe/file/Gh48hwy6VX4mbl5SrpcGJ39pJMvHFlyVf-LFM7JVPuWLyJrH9j0L06EQZVW20069Ax7Rmwvg6wxjit-eF2hYQETLzOC-snZ5YpVy1u7T_4omP0Yv2N9C-sbRAg9QA6ZWIvuyal-9nJWUXrk31MX9jqpDD8YPSyVGgS8Zdao8f27jUie9NgqNmSzv6eqeidscyGhyfeD46QtFAm8QcKL2Ch4WY6YhJLlLg1gyriApJzBr-KoO3NfCkNZQbwgiSthWtlzq0ch3Jwiy09Lb3BHWdisz_yHl-RNylanyq1kCyWFHgCRDhwD9L3r-CqCZsjC0HSPzz5fJm7KUlrT8APZhdg.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-28T07:55:37+00:00"
     },
@@ -188,7 +323,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B08698TW6X?tag=amzodealz-21",
       "newPrice": 624,
-      "image": "https://cdn4.telesco.pe/file/Ew8Cc5NfWhAjRtDLb0tesmd4dZHEPSwZoDIYpf2doFOPv86FSODHal1A7ffg-eioiAS4_fFBi_4ZdKMk0sWGp1jQ6ZftFmYXup8vZsUhjXvTMw1fRs5PdsJ0mYyKKJNwah1aDuyphHOk9iH8pRDcJVkz5X9y5zLO9peZyitf0BWsqNwNFFEk_vPvGdF_t4mfHtuiWLWA3XC-lNXZURR8iNnOeWdVhhwAnx5sWEgoPVsK7Sb4ViquAAUXq41ZzUI_BfPpwXe49fpOi2y6bBbVgD1fP-23cM_f71U0bU7aph_F7T-QZePBoLcOncXoQLquEHpYbiQwqd9s3jLNV3SFSg.jpg",
+      "image": "https://cdn4.telesco.pe/file/BDAFg7MHMMPluS5ymVfpu2XN_pFvZGFOrxJaQ_cmV2anH90naIhy0kmer-2MqprFuIR5wH0dkp4A4ijGHzzT4bnP74BrmyRzQVAgLQYRXbmhAepDstsqanqJuyexlzqV8HxyaqDcaaFFQYTIifi4qgxAkQfBxJCR9lq7LmbMcqge8BaFufc_jMBDPsXa_mPqRbk7DCvf3o7DkNxoUO4zdAyGuUi0az-n_RaP1Mcr7vGUgom5yj1lTujhet_XfCBZl6cOMZgGlI_7oS_x0dL3zqqXfY9EZhhUrNi-0qgzx40fCcLODoR-QK_RThaQia4Nd5T0TVFYDyY63_oESNd0Aw.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-28T06:57:30+00:00"
     },
@@ -198,7 +333,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0F2N5VDPQ?tag=amzodealz-21",
       "newPrice": 94,
-      "image": "https://cdn4.telesco.pe/file/d7f3LXu4bXxVGEDt90FhmF970OaRJYGeCWfqyCigGx3MSYj29tM-XLfvJXj0ueQbF2x5iMZP1NJm-jSsJJfShUA4Tev8WKis1QkwE9CMYtc-pr78zy35bZA99nujBKYz1mTbKfB_XtUQKjazDQ916socyXXHRkkIWTeUMIIYJhHwAiylrvoCUvWx_9wQRhmMJIDg5efmdOD8AG7FBn9y1G3z-QiGd58FRbGvOrB-if8RC41s6siJwdfAO0NzgPuOafAt3T1klamWtRWF-hMYqlmRKdBu9h7VFPNGKplwEF_PrNKxwW3_nn3kFkY-RcHo4ElI0Q6lCmIGr84O4cm8CQ.jpg",
+      "image": "https://cdn4.telesco.pe/file/OKj8mDShw_N7JGi635C4uYdbLV5jZN1qSkrv9gJteBNjTWwl2AN02QF8OgkWA2zD1cuRMibies4ximfNcsmx--noOE4_nUWc3jDBSqPixjJ6zwJXOT6z8LfiIyTUP_mxH5qhMwKgLdnqsPb0iai8CjPiTIQYvYogX45sX6xn2qbObXsXGXM82_nw56CwQ1W330xvXEvTd5K-OjvsSoKKG0eR_05-Lw1Cb7v11sMorTC3rU-qe02IYKH0gwd4yGmF8Dkc7JRMcwxuWgjhf3xwrhdvBH9wet2qygy-ecBmenvBq6naKK6PmqAcMDCY85IFjQPoeYAVi3NffdQlXZmNVA.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-28T06:10:00+00:00"
     },
@@ -208,7 +343,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B00MFXNS86?tag=amzodealz-21",
       "newPrice": 259,
-      "image": "https://cdn4.telesco.pe/file/s5KzJb2w4AkVB4EORJm6dAci3WL_TAKPklpqlarWCOKACVeOA31H73wa-9bHbbNTWk247bL6tnF5kxBxyedXrsTMmr5PZGuiuiMKT7aTWNaEmQ1o6Cc93YCxloJ49UtIWhgVZw0DtX1eQNOI3m6Bp84q0Sdztf0cfnKcR0Etw06VeI0U7BWtGA-hOhkaV1TROor2AvN4pDDJYeisw4p1WVmwBXQYQpRjJsQ4nT91r6DCmeko0mMjuud0oeij23f_46uQXKHNWUYqTm4KVOmt_xFvaAVXGww_P5Q7Du5Dtn-Oqxf-nxHovi5BjP8OpbRs27_Fcm8Z4OHoPIAoVif8UQ.jpg",
+      "image": "https://cdn4.telesco.pe/file/mHCx7ErIcC9ZdRHuJF3E7exxvT0dggHrHsAgSIZTl7pObukVbEk__8otks7rnfCVzTGO77y8Uh4kS3sTjdYNxO1i0_5hWkqFYUmumIsbTnqkebbHtqiMACHz9wzP9KKw1aDdCIR8GoutG7x_DlCePvV7L3U9kr8SwDxhqrZkKGAFOusVebszuKAK3uwcVltf-8pz4XIjjcSljzyrGoqsIoMkfa_g1sHUj0W9ieBe2tT0m-bbTBxeZW9YIgeuyyshmeAOHOSgSI0455tadbiD6182ZqR85Txm0LobljZnnl8FgFMlCk6xp0Qx5VSURRebY7lyjcKgIdduhDxLV2EBmQ.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-28T05:56:46+00:00"
     },
@@ -218,7 +353,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0CPFF23XC?tag=amzodealz-21",
       "newPrice": 2500,
-      "image": "https://cdn4.telesco.pe/file/LcbFQWSK9FSaxcR0kLtnwa91GRbJfDQBTAwK4Uw6YnFLZPUWttc9TZwNQ4eolRy378SzISbIdM1Po0WqaLFdWHLaLlz1P9Gd-J3iU9Sw8Q98kHNUrlcsNZNSSimQhXFy-Z0dDeQ69N6KAyPWHKv9Yxp4uLtc-UVTir8UP1L8O5ykjHJa46uXAUbS9rJl3Zsm-tAi_zm6-NREDT_ijZWthcJH9x0LIryVkKd93xFIIEyiK4TLZF-yMyns2Xxjtqom0wgA1bfyZTa-hi_P8C4JoKcy7pFFGYtTlmKcN7hHsAwx1nh3lHYISN65oAejJoICIlitYaApxbrm_YVLtZie2w.jpg",
+      "image": "https://cdn4.telesco.pe/file/EQQW5Hw_tRi1bc4ZGgrrEXML2i5Y0WMDCJdZTq5Mf87cyZHQl67RXR5KWFgO-rngzZcEM2lh1PwAqG7xQ1hTLFdtLxrCzj6XfaKBCdRkcf6rKWMspsxUG5wC6tkUzj7VgOsE7NJn_MIkaMUA-gVJvlMppuN06ecVw_xKCtp2vro19FF_kU89A7Avh7meBhymbcww7dPKsZ4tjRBYk79u4QXAWH_Ks7o9UaiV9dh9KI3KEcTlDVjkNXfC3vHgj_y64RMQViDo6EmIifOWBH7J3di7n9FRussYBD49-fwzL268w2e18c0XCPhjma2DLkycadlAETCQpvdkFysooi9ezQ.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-28T05:53:39+00:00"
     },
@@ -228,7 +363,7 @@
       "store": "Amazon",
       "url": "https://www.amazon.in/dp/B0FN4TPX19?tag=amzodealz-21",
       "newPrice": 5267,
-      "image": "https://cdn4.telesco.pe/file/bqTcNiVL5yg4whUDNB0oTRDLg_W4ONErAEzucfsc0L24BrT8HK3zuccWq3zTbqGfJF8E6b0g2U96m2QLtgKzt5uDb09GsO1UrdhKa4SieR4edmsR0pA65QxUBdMEvLYodHC-gm3mTPUg_f74OU6_YsDQyFQje-Fjl4Kh3MjhuYZit-37TibPSUtOQWU0t3WSrW8T_KlpSq82pwlGq0cHJFr5zRMVNN54A7BH5aMPsRZrJ0xwmFCMVN2dm2CsfQftAD1cN6OrRnAcvWsXigCArzSHsYqVyYXa_RPuCSXjHS3Qfuz9jDxW2xWV174Jp0qfhHsd_tlBnxELOpv_0-wOgQ.jpg",
+      "image": "https://cdn4.telesco.pe/file/MrGHwz_8vBiicdxwm4bliQaNxycC1s1ZuocnzESgqMPs7d9hB1aAzuaXTkkQJ8_GlAHJxo_C1dE2yRYjPxAxcQaA4WYN3Ki004jOC8MBWQAY5_PWKU7zoqfBM17SvTJtJvQ92J7WOCz1FBeqmENWfELXOMO-forfcOF4Ut-jgYAIoqeouXt0gJAr9u8YEPtkiDyBZ3Df6BUJK9C4F9PstuMDlN-Y-H3eUUvvcJang92bXt7YlSJthX07Xar9iXDt3KNJQ0oG4r9NM2IDHWGSTyUQFbE3kfPIud_gM-CpRQbqblSvdd0TIeDQS0BezFXM27TgyIUclFHFwjnyjNEG3A.jpg",
       "color": "#232F3E",
       "postedAt": "2026-11-28T05:53:34+00:00"
     },
@@ -308,141 +443,6 @@
       "image": "",
       "color": "#232F3E",
       "postedAt": "2026-11-28T04:18:41+00:00"
-    },
-    {
-      "id": "tg-37-2",
-      "name": "Upto 92% Off On Amazon Brand Clothing – Kid’s",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/s?rh=n%3A91813293031%2Cp_85%3A10440599031&s=price-asc-rank&i=fashion&srs=91813293031&tag=amzodealz-21",
-      "image": "",
-      "color": "#232F3E",
-      "postedAt": "2026-11-28T04:18:41+00:00"
-    },
-    {
-      "id": "tg-36",
-      "name": "Symbol Men's Jogger Pants",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/dp/B0B3JJRJ96?tag=amzodealz-21",
-      "newPrice": 309,
-      "image": "https://cdn4.telesco.pe/file/HLVeR9r8y1Guyf0Q_b90-sM27b4sPOEV-VJ6JzkQEgbBGS-nzjLuWOmQMHz3bWd97hSi51YeRsTW7wqFX8ooQk2yy0UPUiTAn0AcWg0GOuSbZ3CL-DwUUe0kc14YVeKJbPpE7UT8yPcxwlgpyw0C_J6jPJ6s5sFhuscNSHC4nbYJOVenFJquleuT-B4chnRdTgWsVIKSPG-O0LsX9og6o7kJNa-jZuzr6pdu-wHXfNbA8IOrHlPLzgXfjxGSiUGf0Md9j-xi0R7FRM3yIL9uVvpPZ9n5J-mKGgqjS6DWO2lp1stWbUduL-yv3epN2N6EWFFyvJE_TiMlRDqWsFHP2Q.jpg",
-      "color": "#232F3E",
-      "postedAt": "2026-11-28T04:18:35+00:00"
-    },
-    {
-      "id": "tg-35",
-      "name": "Khaitan Volt 5.5 Litre Water Heater",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/dp/B0H8PBSZMY?tag=amzodealz-21",
-      "newPrice": 3499,
-      "image": "https://cdn4.telesco.pe/file/L2fRu-Wv9nYO11glkUqJc6SBlnFsgeR7XlH1U3alacNl7Sk-R10EBREA4fasVQQeZUGpz_uz6ShVZNvpgO8OHNgvtnvJALC1uSwjRychO9Rc0UdCJ43P9X1m1-BqmhuxOA2_89YCIiZ7AH3kKwJgW43AiEC5DqOTopFzYqD3r1ef4tyc8YbZHiM9wy7mShr6--SSL8OVdLU_1x2DBADuCq23Dn4Z3RF6hUrse27YJppxd8eXICdaHSszaxnfPoQHA_3Ju7-St_La-uVGe1FpqwTaddwSTNUDUQVL-_SREgWpJ3VYtxvFb6PPZNyBrDIAZdC1Hk-MoaO8WoJl57LwJg.jpg",
-      "color": "#232F3E",
-      "postedAt": "2026-11-28T04:09:25+00:00"
-    },
-    {
-      "id": "tg-34",
-      "name": "Apply  Off Coupon",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/dp/B0D9YMT9KM?tag=amzodealz-21",
-      "newPrice": 99,
-      "oldPrice": 100,
-      "image": "https://cdn4.telesco.pe/file/QUKLhsoocEkznMr3-58tniZzpqQbzWRlbuGG-wj_R_zSi6bhUNo3uH_wyvm5h9BmnGDgapX8dKthsSXOxjzO7g182iWzm7a0-EhchNV_oJ7J5GRyv8fxLnu2nZbYOOb6rWCBBu2ovL0fr7DC2jZwxc7qvEgTGLrU03VLI9BoIUlJjfbwE6xevXSFPpETT6Hq9UZUEprkajJQfjPRni1WVC9dTSF9B3E4uv6dtdw5X2FtQWenaefj47IVIs7TSPhs9LQVFoNFZAneCIPbL7_MrZhNB1q-EKKkBBnVUjSa2lYpztzsvy_ZJ6z5KO3oFxG24fkpcrUqp06_gRBujvLVUw.jpg",
-      "color": "#232F3E",
-      "postedAt": "2026-11-28T03:47:52+00:00"
-    },
-    {
-      "id": "tg-33",
-      "name": "Himalaya Baby Pants Diaper, Size XXL, 44 Count",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/dp/B0H6BHM738?tag=amzodealz-21",
-      "newPrice": 511,
-      "image": "https://cdn4.telesco.pe/file/jTH5f-lq919HluHe1LzmzbFoFdF1sPd1KySyUueY3Yyi8naqyqSORRl3ufvEr2zF0I-EvnbXiXWG_jsLqR5Oeqtl9AN4TCtdTce9ERDYKI7E71KzvwhoNBoy8XzqNn3q0295uXZU8Anx2ubQk85p6qgz9tao_PiYjUWbc3tAdxTXLD54-_P5FKT3i4SXKXhZRSMzzVJbe92YHH4mzM_IQBYJr2z5JobkL93tH1fBbD-JF_8KNstxja1qjOyFpfbqGdvfy-eCHa83s1ObAFzS-2ue-ZXrHKo4_KBo2tZ7NoYZP0zgENvEvHvn7N1Q-y1VKtUPCncGGHhhEAUajf5vBQ.jpg",
-      "color": "#232F3E",
-      "postedAt": "2026-11-28T03:11:00+00:00"
-    },
-    {
-      "id": "tg-32",
-      "name": "Dabur Gulabari Shower Gel, 250 ml",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/dp/B0CJLY8XS3?tag=amzodealz-21",
-      "newPrice": 89,
-      "image": "https://cdn4.telesco.pe/file/crVgzQPK_T03BYvJBSHmwLJwpztl40lfjzXad-lUgY5GlRlEI63l04oQdEwmnj70EifroG7SWLZ57fIIjnhdnWbkyp4aPP4bidlnfceT_zde7UN5xOak3uZDPtkr2IENcIGukVkUh8xt225VzqyfQHRC2TXvJIXvgXOta2MeezU_mDZkfnmnoVkhqVwT9ov5-cEITgRGbW4pIUZjiLyTdtMMlmHo98izs5I1hUMXfFDAIvOSFrK1pfn0oUPJPrMXGn1rvDJKKeSBxQ7gGNADPf8kkMKr997SvRLdwDCg1p30SXoldg6gSYAygPUXQk-zHjn1jIytF_Om3Ix3poCR5A.jpg",
-      "color": "#232F3E",
-      "postedAt": "2026-11-28T03:01:51+00:00"
-    },
-    {
-      "id": "tg-31",
-      "name": "Biotique Fruit Brightening Face Wash 200ml 158",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/dp/B07QF7LNVD?tag=amzodealz-21",
-      "image": "https://cdn4.telesco.pe/file/q9Y7mDmXjJQ0yhfqYKjIEMh5kQUdqVsWlqpqw2ThfZ9nAthR71rqZNEWJAe1kntfbjLdouALMiSsXOy5gtwwSfoOwwZQg5kkivndjUkssTuYXQhhN010hAbwwSHuoxaU2BWy02mC6MMBbVWexQTksiMSebJGfnfQkue8g1hLpE_xvo38Wv84GIFZEFNdUd4P0mXf-Od7pWhIGdQ7N7LF3n00HNPvOVjW6gQW72BysFuzkwjicybGYXAvNEmv3INiXqet7eco9X3TpUkF7_FUfJAT4keNR-gH1r_XRhVTp8iCxTtP9Ku2h9LA2zYoMmxe-9oWESFViJzpAY7U_OEOAg.jpg",
-      "color": "#232F3E",
-      "postedAt": "2026-11-28T02:28:09+00:00"
-    },
-    {
-      "id": "tg-29",
-      "name": "SIMPARTE Smart Slim Storage Air-Tight & Leak Resistant Plastic Round Modular Container for Juice, Snacks, Spices, Dry Fr",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/dp/B0DGLP3FCN?tag=amzodealz-21",
-      "newPrice": 169,
-      "image": "https://cdn4.telesco.pe/file/jMQwOhYhNm94A-vx5I_J0UaWhgwVvzIJcrD6b8pBnrpf54KH7R5J2S0uw7Sh0EvYcee69Z_v_nbImwAmnU0eNNXXNX5KnMwggI8_-77lYrdWvanovRdoTjqXpziYWBwuL5TyGyoEK0mEhfg2t73bjuTw0VJ0mAUzDoREIr8fO4ecTdYzskABAiO2QyK4C7UC3l935dnhUQS6hXERv-b-wvx-KSLZB1yWeJh-8PHosJ0_RWF-7McV0RdPdVbGfHrMHnwsQrpVRTbkidBbMJKD-TgWk56CU8u8AB6q_vVLEUloAJvUgZvihGAVvtM9jUbWfvuxUlw0vsKG9D6IImjuYw.jpg",
-      "color": "#232F3E",
-      "postedAt": "2026-11-27T19:25:05+00:00"
-    },
-    {
-      "id": "tg-28",
-      "name": "Amazon Brand - Symbol Men's Stretchable Regular fit Jogger Pants | Chinos | Casual Trousers",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/dp/B09MDM8LZS?tag=amzodealz-21",
-      "newPrice": 339,
-      "image": "https://cdn4.telesco.pe/file/MQZmLSxtZrZ6Uag9faJMtQo8fZ0O79_iub3xq8Z--gqLNIOZFsf5MGDJheYbOjqo2BHvFogo64Fe8phqeJHTE8U3ZPBqkiclgtQ1HJ2wS8x2YLFJ8-gLGq9c3xzklm9P-xNWhcaH31Nj2FWpHPSi95rnh6hr-PMDjiihb17pDyii8dnRluUkTQGvB3JOTQ63ntHMvgrRh-pbTfWK6UtXMmJjM2v-29wfJ4HWIyGnUfNxV9ecawRC2zCUg2QbGSmrEkPHY4qXdpWkwtwA7EhBZmjd6WYwkMyYBrR_ar0Md2cvdNH8e57eUv7-SB7qZQIW4HfguY4N81-VTtOv7VA0mQ.jpg",
-      "color": "#232F3E",
-      "postedAt": "2026-11-27T19:06:49+00:00"
-    },
-    {
-      "id": "tg-27",
-      "name": "Fort Collins Jackets Start – Men's",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/s?k=fort+collins+jacket&rh=n%3A1571271031%2Cn%3A1968024031%2Cn%3A29945464031%2Cn%3A1968088031%2Cn%3A1968091031%2Cp_123%3A484322%7C484399&s=price-asc-rank&i=apparel&btn_type=ss&btn_ref=srctok-7b3a877946479d3d&tag=amzodealz-21",
-      "image": "",
-      "color": "#232F3E",
-      "postedAt": "2026-11-27T18:57:41+00:00"
-    },
-    {
-      "id": "tg-27-1",
-      "name": "Fort Collins Jackets Start – Women's",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/s?k=fort+collins+jacket&rh=n%3A1571271031%2Cn%3A1953602031%2Cp_123%3A484322%7C484399&s=price-asc-rank&i=apparel&btn_type=ss&btn_ref=srctok-0facacf2548748bc&tag=amzodealz-21",
-      "image": "",
-      "color": "#232F3E",
-      "postedAt": "2026-11-27T18:57:41+00:00"
-    },
-    {
-      "id": "tg-26",
-      "name": "Upto 90% Off On Myx Clothing",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/s?k=Amazon+Brand+-+Myx&rh=n%3A1571271031%2Cp_n_pct-off-with-tax%3A27060457031%2Cp_123%3A364964&i=apparel&tag=amzodealz-21",
-      "image": "",
-      "color": "#232F3E",
-      "postedAt": "2026-11-27T18:57:35+00:00"
-    },
-    {
-      "id": "tg-25",
-      "name": "Upto 68% Off On Lakme Beauty Products",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_123%3A456549%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A59-&i=beauty&tag=amzodealz-21",
-      "image": "",
-      "color": "#232F3E",
-      "postedAt": "2026-11-27T18:39:20+00:00"
-    },
-    {
-      "id": "tg-24",
-      "name": "Dove Men+Care oil Control Face Moisturizer, 100gm",
-      "store": "Amazon",
-      "url": "https://www.amazon.in/dp/B0DWXBHNVQ?tag=amzodealz-21",
-      "newPrice": 125,
-      "image": "https://cdn4.telesco.pe/file/NzIVJmHSqh5xjvCb9ERiAXmQVYqkYrHoWuDG-Axa6fue7Fl9VtxBhVu8oqjrJMIbKouerkR_w3FM6wYaICwNiLrz99vX4ldrqtYVJfZ9VfCdMWqC7o9DxXqFNOvu8HTg-DkIbImE5QPvHqMJrR5OnNAhbYlb8Obnvs7jzTTJSI-p0f5_edudVm3bzSMP1fnL9jMks1AfyRyo5BG-Z_XjIieRJ6mWf1cQdajKk2qNnkAxwlL1m29suzUA9iqTDKoD7qObdE735F6H1HB9bvt_viinqctVvVP8MoqT1Wlzna2v6NQl_WKuKNgdxvTIq7hB07FGnr1H8BIFnHetdVvOsQ.jpg",
-      "color": "#232F3E",
-      "postedAt": "2026-11-27T18:38:45+00:00"
     },
     {
       "id": "buds",
